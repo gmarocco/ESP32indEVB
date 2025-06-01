@@ -9,3 +9,4 @@ This board is based on ESP32-S3 chip and microcontoller
  -There is a 9 RGBLEDmatrix (WS2812B)
 - There are 9 ESD protected GPIOs
 - There is a free section of testpoints for experiment
+![ESP32_prototype](https://github.com/user-attachments/assets/6fd1fcf9-b987-4919-b08f-29ea1ea89f27)
