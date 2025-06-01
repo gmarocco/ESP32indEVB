@@ -1,8 +1,11 @@
 # ESP32indEVB
-ESP32-S3 industrial development board < br / > 
+ESP32-S3 industrial development board
+
 This board is based on ESP32-S3 chip and microcontoller
- - There are the following physical communication interfaces < br / > 
- a) debug USB (it is connected to a UARTport of ESP32-S3)   < br / > 
+ - There are the following physical communication interfaces
+   
+ a) debug USB (it is connected to a UARTport of ESP32-S3)  
+ 
  b) native USB  < br / > 
  c) isolated CANBUS with termination resistor  < br / > 
  d) isolated RS485 with termination resistor < br / > 
