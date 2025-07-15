@@ -20,6 +20,7 @@ g) There is a free section of testpoints for experiment
 
   You can open and modify the project with KiCad 9 release 
   For questions, feedback or proposals you can contact me at the following email: info@pcbsemplice.com
+  
  !!! It is not allowed to reproduce the board for mass production and for business purposes. If you have a business proposal you can write at the following email: info@pcbsemplice.com
   
 
@@ -43,8 +44,8 @@ f) Sono presenti 9 GPIO con protezione ESD
 g) È disponibile una sezione gratuita di testpoint per esperimenti  
 È possibile aprire e modificare il progetto con KiCad versione 9  
 
-
 Per domande feedback e suggerimenti mi puoi contattare al seguente indirizzo email: info@pcbsemplice.com
+
 !!! E' vietato riprodurre la scheda per scopi commerciali. Per proposte commerciali puoi scrivere a info@pcbsemplice.com
   -  ![ESP32_industrial EVB 3D model](https://github.com/user-attachments/assets/a6b824c0-ebcf-4901-a1d3-367f770a0a83)
   -  ![block diagram](https://github.com/user-attachments/assets/7c6af9e1-7ada-4c90-baa9-00a227eaa6a4)
