@@ -47,6 +47,9 @@ g) È disponibile una sezione gratuita di testpoint per esperimenti
 Per domande feedback e suggerimenti mi puoi contattare al seguente indirizzo email: info@pcbsemplice.com
 
 !!! E' vietato riprodurre la scheda per scopi commerciali. Per proposte commerciali puoi scrivere a info@pcbsemplice.com
+
+Se parli Italiano e stai inziando con KiCad ti segnalo il percorso KiCadSemplice (www.pcbsemplice.com/kicad)
+Se sei interessato a progettare circuiti professionali , è disponibile un percorso personalizzato chiamato pcb-pro-accademy https://pcbsemplice.com/pcb-pro-academy
   -  ![ESP32_industrial EVB 3D model](https://github.com/user-attachments/assets/a6b824c0-ebcf-4901-a1d3-367f770a0a83)
   -  ![block diagram](https://github.com/user-attachments/assets/7c6af9e1-7ada-4c90-baa9-00a227eaa6a4)
 ![ESP32_prototype](https://github.com/user-attachments/assets/6fd1fcf9-b987-4919-b08f-29ea1ea89f27)
