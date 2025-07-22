@@ -52,5 +52,6 @@ Se parli Italiano e stai inziando con KiCad ti segnalo il percorso KiCadSemplice
 Se sei interessato a progettare circuiti professionali , è disponibile un percorso personalizzato chiamato pcb-pro-accademy https://pcbsemplice.com/pcb-pro-academy
   -  ![ESP32_industrial EVB 3D model](https://github.com/user-attachments/assets/a6b824c0-ebcf-4901-a1d3-367f770a0a83)
   -  ![block diagram](https://github.com/user-attachments/assets/7c6af9e1-7ada-4c90-baa9-00a227eaa6a4)
+  -  <img width="365" height="377" alt="Image" src="https://github.com/user-attachments/assets/fe854b86-445e-4994-9dd9-d3f2a50f383f" />
 
 
