@@ -1,0 +1,11 @@
+Plugin v0.0.1 running on KiCad 9.0.0 and Python 3.11.5 (main, Jan 27 2025, 07:08:36) [MSC v.1942 64 bit (AMD64)] on win32.
+Config file C:\Users\info\Documents\progetto PCB semplice\scheda di sviluppo industriale ESP32-S3\ESP32-S3 industrial development board\scheda di sviluppo industriale_ESP32V2.kicad_pcb.hierpcb.json not found. Creating new one.
+
+├─ c5045514
+│  ├─ /gerarchico Sheet/breadboard/
+│  ├─ /gerarchico Sheet/GPIO/
+│  ├─ /gerarchico Sheet/LED_MATRIX_WS2812B/
+│  ├─ /gerarchico Sheet/Power/
+│  ├─ /gerarchico Sheet/bus/
+│  ├─ /gerarchico Sheet/ESP32-S3 MCU/
+Saved.
