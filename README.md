@@ -12,11 +12,13 @@ This board is based on ESP32-S3 chip and microcontoller
  
  d) isolated RS485 with termination resistor 
  
- e) There is a 9 RGBLEDmatrix (WS2812B) 
+ e) There is a 9 RGB LED matrix (WS2812B) 
  
 f) There are 9 ESD protected GPIOs 
 
 g) There is a free section of testpoints for experiment 
+
+This is the third version of the board. With respect to the second version, some nets have been renamed and stiching vias along the board perimeter have been added
 
   You can open and modify the project with KiCad 9 release 
   For questions, feedback or proposals you can contact me at the following email: info@pcbsemplice.com
@@ -43,6 +45,8 @@ f) Sono presenti 9 GPIO con protezione ESD
 
 g) È disponibile una sezione gratuita di testpoint per esperimenti  
 È possibile aprire e modificare il progetto con KiCad versione 9  
+
+Questa è la terza verione della scheda. Rispetto alla seconda versione sono state rinominate alcune net e sono stati aggiunti dei fori di via stiching lungo il perimetro della scheda
 
 Per domande feedback e suggerimenti mi puoi contattare al seguente indirizzo email: info@pcbsemplice.com
 
