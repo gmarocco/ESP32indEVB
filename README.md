@@ -24,7 +24,8 @@ This is the third version of the board. With respect to the second version, some
   For questions, feedback or proposals you can contact me at the following email: info@pcbsemplice.com
   
  !!! It is not allowed to reproduce the board for mass production and for business purposes. If you have a business proposal you can write at the following email: info@pcbsemplice.com
-  
+ 
+  Are you interested in these projects and want to contribute to the development of boards and projects (including open-source), prototypes, and documentation? You can make a no-obligation donation at this PayPal link: https://shorturl.at/0LquK Every contribution, no matter how small, makes a difference. Thank you!
 
 Scheda di sviluppo industriale ESP32-S3  
 Questa scheda è basata sul chip e microcontrollore ESP32-S3 
@@ -57,5 +58,7 @@ Se sei interessato a progettare circuiti professionali , è disponibile un perco
   -  ![ESP32_industrial EVB 3D model](https://github.com/user-attachments/assets/a6b824c0-ebcf-4901-a1d3-367f770a0a83)
   -  ![block diagram](https://github.com/user-attachments/assets/7c6af9e1-7ada-4c90-baa9-00a227eaa6a4)
   -  <img width="365" height="377" alt="Image" src="https://github.com/user-attachments/assets/fe854b86-445e-4994-9dd9-d3f2a50f383f" />
+
+Ti interessano questi progetti e vuoi contribuire per lo sviluppo di schede e progetti (anche open-source), prototipi, documentazione ? Puoi effettuare una donazione senza impegno a questo link di Paypal https://shorturl.at/0LquK Ogni contributo, anche piccolo, fa la differenza. Grazie!
 
 
