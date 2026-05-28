@@ -1,0 +1,13 @@
+(version 1)
+(rule diodi_alimentazione
+	(layer "F.Cu")
+	(constraint connection_width (min 0.5mm))
+	(condition "A.intersectsArea('diodi-alimntazione')")
+(severity error)
+)
+(rule GND_GND_ISO_clearance
+	# GND GND ISO clearance
+	(constraint clearance (min 2mm))
+	(condition "A.NetName == 'GND' && B.NetName == 'GNDISO'")
+(severity error)
+)
