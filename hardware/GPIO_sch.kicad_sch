@@ -5801,9 +5801,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D24")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -6163,9 +6160,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "RELE1")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -6312,9 +6306,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R41")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -6461,9 +6452,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R32")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -6599,9 +6587,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R30")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -6755,9 +6740,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "U3")
 					(unit 2)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -7034,9 +7016,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D11")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -7256,9 +7235,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "FID2")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -7457,9 +7433,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D25")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -7737,9 +7710,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D28")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -7886,9 +7856,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "J7")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -8020,9 +7987,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "H1")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -8235,9 +8199,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R31")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -8458,9 +8419,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "FID1")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -8753,9 +8711,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R38")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -8966,9 +8921,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "H2")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -9104,9 +9056,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R35")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -9247,9 +9196,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "RV1")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -9543,9 +9489,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D26")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -9683,9 +9626,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "C37")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -9832,9 +9772,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "K1")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -10046,9 +9983,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R50")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -10247,9 +10181,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D22")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -10463,9 +10394,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R36")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -10664,9 +10592,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D19")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -10813,9 +10738,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "J5")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -11030,9 +10952,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R37")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -11257,9 +11176,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "J6")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -11402,9 +11318,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "FID3")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -11619,9 +11532,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "ANALOGICI1")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -11776,9 +11686,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "U3")
 					(unit 3)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -11990,9 +11897,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R47")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -12191,9 +12095,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D2")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -12549,9 +12450,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D27")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -13004,9 +12902,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "Q1")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -13141,9 +13036,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R49")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -13342,9 +13234,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D23")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -13479,9 +13368,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R51")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -13628,9 +13514,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R39")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -13829,9 +13712,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D1")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -13966,9 +13846,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "R48")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -14122,9 +13999,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "U3")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -14480,9 +14354,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/5fa7db98-1732-4d8d-84ce-d1d9238816d0"
 					(reference "D3")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)

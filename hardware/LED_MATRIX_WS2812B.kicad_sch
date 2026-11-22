@@ -148,283 +148,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WS2812B_3"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "LED2"
-				(at -7.366 9.144 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "WS2812B"
-				(at 5.588 8.89 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "ESP32indEVB:WS2812B"
-				(at 4.318 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at -1.27 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Description" "RGB LED with integrated controller"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Campo senza titolo" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "LED, RGB, intelligent"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "WS2812B_3_0_0"
-				(polyline
-					(pts
-						(xy -1.27 0) (xy -3.81 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.254 -1.143) (xy 0.889 -2.159)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.381 -2.667) (xy -0.762 -1.651)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.381 -2.667) (xy 0.254 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.889 -2.159) (xy 0.762 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 3.81 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "RGB"
-					(at 0 2.54 0)
-					(effects
-						(font
-							(size 1.524 1.524)
-						)
-					)
-				)
-			)
-			(symbol "WS2812B_3_0_1"
-				(rectangle
-					(start -7.62 7.62)
-					(end 7.62 -7.112)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.27 1.27)
-					(end 1.27 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 1.27) (xy -1.27 -1.27) (xy 1.27 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "WS2812B_3_1_1"
-				(pin power_in line
-					(at -3.556 10.668 270)
-					(length 3)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 13.208 2.032 180)
-					(length 5.0038)
-					(name "DOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 1.778 -12.446 90)
-					(length 5.0038)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -12.954 2.032 0)
-					(length 5.0038)
-					(name "DIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "ESP32indEVB:+5V"
 			(power global)
 			(pin_names
@@ -1488,6 +1211,283 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "WS2812B_3"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "LED2"
+				(at -7.366 9.144 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "WS2812B"
+				(at 5.588 8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "ESP32indEVB:WS2812B"
+				(at 4.318 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -1.27 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Description" "RGB LED with integrated controller"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Campo senza titolo" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "LED, RGB, intelligent"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "WS2812B_3_0_0"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -1.143) (xy 0.889 -2.159)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.381 -2.667) (xy -0.762 -1.651)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.381 -2.667) (xy 0.254 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.889 -2.159) (xy 0.762 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "RGB"
+					(at 0 2.54 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+			)
+			(symbol "WS2812B_3_0_1"
+				(rectangle
+					(start -7.62 7.62)
+					(end 7.62 -7.112)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 1.27) (xy -1.27 -1.27) (xy 1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "WS2812B_3_1_1"
+				(pin power_in line
+					(at -3.556 10.668 270)
+					(length 3)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 13.208 2.032 180)
+					(length 5.0038)
+					(name "DOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 1.778 -12.446 90)
+					(length 5.0038)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.954 2.032 0)
+					(length 5.0038)
+					(name "DIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "matrice di LED RGB (WS2812)\nWS2812 RGB LED matrix"
 		(exclude_from_sim no)
@@ -2410,9 +2410,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "R34")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -2642,9 +2639,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "LED9")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -2873,9 +2867,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "LED7")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -3085,9 +3076,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "DOUT3")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -3394,9 +3382,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "LED5")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -3934,9 +3919,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "LED4")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -4150,9 +4132,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "C38")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -4461,9 +4440,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "LED3")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -4770,9 +4746,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "LED6")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -4913,9 +4886,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "Q2")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -5067,9 +5037,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "LED2")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -5221,9 +5188,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "LED10")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -5359,9 +5323,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "R16")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)
@@ -5979,9 +5940,6 @@
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8/abad7f94-95de-4517-a98d-a18bb379608f"
 					(reference "LED8")
 					(unit 1)
-					(variant
-						(name "stub matching network")
-					)
 				)
 			)
 		)

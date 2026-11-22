@@ -457,7 +457,7 @@
 		)
 	)
 	(sheet
-		(at 33.655 99.314)
+		(at 41.275 101.219)
 		(size 26.416 24.003)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -473,7 +473,7 @@
 		)
 		(uuid "3d3aa372-f404-4415-8215-abbbf653f58e")
 		(property "Sheetname" "breadboard"
-			(at 33.655 98.6024 0)
+			(at 41.275 100.5074 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -484,7 +484,7 @@
 			)
 		)
 		(property "Sheetfile" "breadboard_sch.kicad_sch"
-			(at 33.655 123.9016 0)
+			(at 41.275 125.8066 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1127,7 +1127,7 @@
 		(instances
 			(project "ESP32_ind_EVB_V3"
 				(path "/40de2dd1-84d4-4ee2-b97a-0a22f81257b3/c5045514-88a3-4fc8-9adf-41764b0a56b8"
-					(page "3")
+					(page "6")
 				)
 			)
 		)
