@@ -1,0 +1,290 @@
+(footprint "ABS07AIG"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "ABS07AIG")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "REF**"
+		(at -0.328 1.536 0)
+		(layer "F.SilkS")
+		(uuid "03087652-7a99-449f-85e0-091f7d42c9c2")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.127)
+			)
+		)
+	)
+	(property "Value" "ABS07AIG-32.768KHZ-D-T"
+		(at -0.553 -1.709 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1e70d6b4-6243-4a47-9fdd-1a9bcd435090")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.abracon.com/AIGcrystals/ABS07AIG.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e35ed6a-7a77-4439-9a17-1f4b517c2407")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "32.768 kHz +/-20ppm Crystal 12.5pF 80 kOhms 2-SMD, No Lead"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0dc7de98-d0d9-419e-a44f-48f6b12b3a5a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.9"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "93df9051-09e5-4823-9347-d236a473e85c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "ABRACON"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4cf2a41-4684-4b0f-bc91-9ad50a3aac48")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "ABS07AIG-32.768KHZ-D-T"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5208ee09-7319-41fa-bf4f-d4d658217e82")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "815-S07AIG-32.768-DT"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1fa5c615-3ee3-49e7-8e5e-99982bf1b2ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ABRACON/ABS07AIG-32.768KHZ-D-T?qs=gG6m684uYP7Dmm7xGTKHUg%3D%3D"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f27a153-d4b1-44f6-8278-23bd526546c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce12e9e8-8b2d-41f2-97b5-500d3cefaeaa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Library" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0803dd9-a07d-4b53-b530-cf7ca512fe43")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Name" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9aa230b-0d08-4a98-a0d7-6fea7edd65f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Params" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fcf55c4b-1af2-4b0b-b822-1f9343ef816a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "09a1b7ca-e2b2-4a02-bb9e-8673a95e8627")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/gerarchico Sheet/ESP32-S3 MCU/")
+	(sheetfile "mcu_sch.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.5 -0.75)
+		(end 0.5 -0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a1dda631-15d4-409f-99bb-0c7b17f97c8b")
+	)
+	(fp_line
+		(start -0.5 0.75)
+		(end 0.5 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0263919a-cbb9-4bee-9f4a-56a2a022ce62")
+	)
+	(fp_circle
+		(center -2.003 -0.116)
+		(end -2.003 -0.10379)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "44a2c7c9-6527-40f3-962c-805e992e3e9f")
+	)
+	(fp_line
+		(start -1.6 -0.75)
+		(end 1.6 -0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3db1f4d3-c034-4501-b3ea-0107b6ff02d8")
+	)
+	(fp_line
+		(start -1.6 0.75)
+		(end -1.6 -0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e026ddda-1d85-42da-a421-1e1a5242cb4a")
+	)
+	(fp_line
+		(start 1.6 -0.75)
+		(end 1.6 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "038a70fe-9ed2-418e-a11a-467e9436d11c")
+	)
+	(fp_line
+		(start 1.6 0.75)
+		(end -1.6 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2dd65e73-e8c6-4446-8d71-b59edf6abf68")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.553 -1.709 0)
+		(layer "F.Fab")
+		(uuid "866d74b1-a3dc-4084-a894-8042908c93a9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.275 0)
+		(size 1.5 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "adcee845-6c30-4c45-84df-e55a38acabf9")
+	)
+	(pad "2" smd rect
+		(at 1.275 0)
+		(size 1.5 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "26a361ba-0b7b-465a-b6a2-1fd6aa816dd6")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\ABS07AIG-32.768KHZ-D-T.stp"
+		(offset
+			(xyz 0.01999999925 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
