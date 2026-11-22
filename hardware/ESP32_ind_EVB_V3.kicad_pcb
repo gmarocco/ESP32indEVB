@@ -20891,7 +20891,7 @@
 			(uuid "b91806ce-bdbd-45a8-89bc-2489b27c19f9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-523.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SOT-523.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
