@@ -1,0 +1,7 @@
+Istruzioni per programmare la scheda
+
+Prima di inserire il cavo USB, premere il pulsante BOTT0 e rilasciarlo qualche secondo dopo aver inserito  il cavo
+
+Programming instruction
+
+Before plugging the USB cable, press the BOOT0 switch and release it some seconds after having plugged the cable into the PC

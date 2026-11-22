@@ -1,0 +1,367 @@
+(footprint "TEA10505"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "TEA 1-0505-1")
+	(tags "Power Supply")
+	(property "Reference" "REF**"
+		(at 7.543 -6.909 90)
+		(layer "F.SilkS")
+		(uuid "dd0bbe7d-8232-456e-bc4e-4ca4d643c907")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "TEA_1-0505"
+		(at 3.81 -1.6 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ab8b3c72-e6d0-463d-8d14-3ba8be1492b7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://tracopower.com/tea1-datasheet/"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0c142874-ad47-44a1-a6a6-1f1c3b55e62a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "1 Watt DC/DC converter, industrial, +/-10% input, unregulated, highly cost efficient, encapsulated, SIP-4"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0709e86a-d734-457c-9123-7831f52987ae")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "10.15"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19b85a8f-da69-4c93-a9d7-c5a0fbc3bfd4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "495-TEA1-0505"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "73ae4158-a2d8-4537-b632-39945dfff1bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TRACO-Power/TEA-1-0505?qs=GedFDFLaBXEYm9Nac0%2F18A%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "075de933-061c-44ed-8ac9-e8ebdaa098bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Traco Power"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0887c0d9-1d49-4281-a241-4dc35e86c364")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "TEA 1-0505"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "966cae2e-5f89-43f5-8989-f3a9eeaef942")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0c26f1ee-d449-4f18-ada3-ebdfd97a05bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Library" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "279d1912-fb85-4b9c-9902-c25c2d0e837e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Name" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f87cec2c-9976-4dea-9e7b-eeb4647fbb1c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Params" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "827f3cba-fd73-4fc6-aaa5-5251c3b4987b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a244abb-a490-4fec-bb40-b26e25437fad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/gerarchico Sheet/bus/")
+	(sheetfile "bus_sch.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.03 -5.1)
+		(end 9.65 -5.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58fb31ec-8a2b-454d-9418-f6b06335c59e")
+	)
+	(fp_line
+		(start -2.03 0.9)
+		(end -2.03 -5.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "32234b7f-c2b8-4c41-b938-0aad95f2b288")
+	)
+	(fp_line
+		(start -0.2 1.8)
+		(end -0.2 1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "680dcb48-ab37-4e3b-b9a7-8ea2e1be8c90")
+	)
+	(fp_line
+		(start 0 1.8)
+		(end 0 1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e53d6c31-75cd-4c63-82b2-477720a46f5f")
+	)
+	(fp_line
+		(start 9.65 -5.1)
+		(end 9.65 0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "adb6cf17-0a58-4582-a164-afdf3d3ff677")
+	)
+	(fp_line
+		(start 9.65 0.9)
+		(end -2.03 0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0501ab2-cf23-45cc-a6da-1de2799d0e8a")
+	)
+	(fp_arc
+		(start -0.2 1.8)
+		(mid -0.1 1.7)
+		(end 0 1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5cb4fff-2934-463d-9f14-a7364f11503d")
+	)
+	(fp_arc
+		(start 0 1.8)
+		(mid -0.1 1.9)
+		(end -0.2 1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6da040ae-ee68-4f68-9348-c82ee5a96745")
+	)
+	(fp_line
+		(start -2.03 -5.1)
+		(end 9.65 -5.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d4e85cb7-f09b-4e0d-bbbc-c2dd87355039")
+	)
+	(fp_line
+		(start -2.03 0.9)
+		(end -2.03 -5.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b760d84d-9514-4906-b77a-630c62ab9571")
+	)
+	(fp_line
+		(start 9.65 -5.1)
+		(end 9.65 0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f0af967b-350f-4fe7-9739-092ad64af4a8")
+	)
+	(fp_line
+		(start 9.65 0.9)
+		(end -2.03 0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ed14207d-59d1-40d7-bb1e-9ad55badc1c5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 3.81 -1.6 0)
+		(layer "F.Fab")
+		(uuid "0fcbcf35-c6b3-42f5-8d6e-045cdbd98b44")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.303 1.303)
+		(drill 0.76)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "153b6811-676e-4716-8cd9-ee4e37e842a0")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 0)
+		(size 1.303 1.303)
+		(drill 0.76)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6f820490-3f62-45df-aa14-1a26a4fc5995")
+	)
+	(pad "3" thru_hole circle
+		(at 5.08 0)
+		(size 1.303 1.303)
+		(drill 0.76)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6d7887ec-173d-41b9-a7fb-2aec00b17fa9")
+	)
+	(pad "4" thru_hole circle
+		(at 7.62 0)
+		(size 1.303 1.303)
+		(drill 0.76)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c53792e2-5160-4ee6-a1ff-e07a404a752e")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/3dmodels/TEA_1-0505.stp"
+		(offset
+			(xyz -1.789999935 -0.999999985 -4.159999785)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

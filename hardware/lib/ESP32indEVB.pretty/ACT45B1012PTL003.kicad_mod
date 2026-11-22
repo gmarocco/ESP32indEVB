@@ -1,0 +1,325 @@
+(footprint "ACT45B1012PTL003"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "ACT45B")
+	(tags "Filter")
+	(property "Reference" "REF**"
+		(at -4.9 0 0)
+		(layer "F.SilkS")
+		(uuid "38e1fe25-0f73-4c88-93fe-382a8783d87e")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.127)
+			)
+		)
+	)
+	(property "Value" "ACT45B-101-2P-TL003"
+		(at 0.1 -2.8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0e356a8a-b1cd-48bf-8128-c3514f919ad9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/cmf_cmc/catalog/cmf_automotive_signal_act1210d_en.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4451db2b-70a4-4956-9742-dfde00b2ecf6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "100 H @ 100 kHz 2 Line Common Mode Choke Surface Mount 115mA DCR 3Ohm"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "27b87a5b-5de9-44b6-8e99-93159776609e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "2.5"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7eb1f5f-6465-4d85-99ed-c4caecad3916")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "TDK"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da25cc03-1921-4e55-869d-199a555630e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "ACT1210D-101-2P-TL00"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1e8ab8a5-0db9-4ffb-9120-598138bd0929")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "810-ACT1210D1012PTL0"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "899d8fed-48a2-4676-8efe-f7b0f4824dbd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/ACT1210D-101-2P-TL00?qs=IS%252B4QmGtzzrTAOyb53aAHw%3D%3D"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84af86ca-457b-4bae-a5ab-5341da0471ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Campo senza titolo" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53634ed3-8929-424f-b99e-27b000eb3f65")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53927dc8-3181-47ef-9cf4-416993b3e374")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Library" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d98baed-55a4-4b5c-8599-f6a2192b7038")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Name" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "389c9ced-0144-4f76-92ac-c82c35606cf1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Params" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc952436-4e15-43f8-abf7-0e6eec6519f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "651d1b1d-d68e-4a61-8317-8341850c6a3c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/gerarchico Sheet/bus/")
+	(sheetfile "bus_sch.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.5 -1.2)
+		(end -3.5 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad5e50e3-cadf-4cfc-991e-419230e60183")
+	)
+	(fp_line
+		(start -3.4 -1.2)
+		(end -3.4 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ff93e490-b8a9-4325-a5a9-9e9d18e7aefb")
+	)
+	(fp_line
+		(start -3.2 -1.9)
+		(end -3.2 1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2d8ae7fa-9a9c-4686-8629-30c159dda026")
+	)
+	(fp_line
+		(start -3.1 -1.9)
+		(end 3.2 -1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "804ea4b5-19da-480c-bf11-df4139fe4f4f")
+	)
+	(fp_line
+		(start 3.1 1.9)
+		(end -3.2 1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f095c072-bfb3-4795-8b2f-bdf4e229ffc8")
+	)
+	(fp_line
+		(start 3.2 -1.9)
+		(end 3.2 1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6117ef28-74b1-436f-86db-6f6df63208f1")
+	)
+	(fp_arc
+		(start -3.5 -1.2)
+		(mid -3.45 -1.25)
+		(end -3.4 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f554c18-4359-42a0-b66b-b49abaa3b7b1")
+	)
+	(fp_arc
+		(start -3.4 -1.2)
+		(mid -3.45 -1.15)
+		(end -3.5 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ed0c6203-6f65-4594-81c1-f7d1f712a1d4")
+	)
+	(fp_line
+		(start -2.25 1.6)
+		(end -2.25 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "159a9589-0b01-4a3c-b7f5-ca43c9f87c26")
+	)
+	(pad "1" smd rect
+		(at -2.275 -1.25 90)
+		(size 0.9 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b99cd11e-1add-4fc2-b5b0-652bb711cf42")
+	)
+	(pad "2" smd rect
+		(at -2.275 1.25 90)
+		(size 0.9 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "468d88a4-e028-446b-9794-e6610ad05d94")
+	)
+	(pad "3" smd rect
+		(at 2.275 1.25 90)
+		(size 0.9 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4f87b4d3-0a18-4624-b4d7-d9ae81d5c4fd")
+	)
+	(pad "4" smd rect
+		(at 2.275 -1.25 90)
+		(size 0.9 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5d86d804-af6c-4682-9b1a-11d87620d062")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/3dmodels/ACT45B-101-2P-TL003.stp"
+		(offset
+			(xyz -0.02999999888 -0.1800000044 -2.999999955)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

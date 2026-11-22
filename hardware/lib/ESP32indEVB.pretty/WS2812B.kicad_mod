@@ -1,0 +1,501 @@
+(footprint "WS2812B"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3.4748 0.088 90)
+		(layer "F.SilkS")
+		(uuid "05fe0a50-0bb2-47ce-95ec-f2ca123e9922")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.127)
+			)
+		)
+	)
+	(property "Value" "WS2812B"
+		(at 0 4.8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "339e467b-8176-4d0b-9fca-1d5ebf61e60a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8c590756-0049-48e2-b41c-1d08d5adbebf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "RGB LED with integrated controller"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a528eb07-0819-42e1-b2db-c2505b166818")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Campo senza titolo" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36c8082a-9724-4e3e-8f23-2f947622a652")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e791571-968c-456b-ada3-4ebcdd2a8e32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Library" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54ee7a0f-7389-4875-8648-c0db579e57ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Name" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1056aff4-085c-41cd-a7e4-b1701519d5fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Params" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "29145cdc-686a-4db2-9ed0-6b0e9904e953")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a4d97a5-fb77-4ce5-b407-376595872990")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/gerarchico Sheet/LED_MATRIX_WS2812B/")
+	(sheetfile "LED_MATRIX_WS2812B.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.5 -1)
+		(end -2.5 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e3fc3a9b-a92a-4a27-a72c-18d0df547b06")
+	)
+	(fp_line
+		(start -1 -1)
+		(end 1 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "65f75bb1-53f7-42a0-b3a0-e177673bf48b")
+	)
+	(fp_line
+		(start -1 0.5)
+		(end -1 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "72c332f3-b1f1-4e0c-8e36-93b423510817")
+	)
+	(fp_line
+		(start -0.5 -2.5)
+		(end 0.5 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2c6c700f-9a35-4031-af25-3e2645d2ed64")
+	)
+	(fp_line
+		(start -0.5 1)
+		(end -1 0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bad49720-11c2-4f45-b190-f32a6dd41148")
+	)
+	(fp_line
+		(start -0.5 2.5)
+		(end 0.5 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b37d572e-c995-41a8-beaa-c6f16d9ab797")
+	)
+	(fp_line
+		(start 1 -1)
+		(end 1 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "92d8bd2c-c481-4f38-9670-416e2cd3f93f")
+	)
+	(fp_line
+		(start 1 1)
+		(end -0.5 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17ec96c6-a564-40b6-a91a-229d6a94d505")
+	)
+	(fp_line
+		(start 2.5 -1)
+		(end 2.5 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5e26ca6e-9b7a-4171-b548-81c600474796")
+	)
+	(fp_line
+		(start -2.5 -2.5)
+		(end -2.1 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "fda4bdc5-aa4c-4831-8b61-e0144fcca963")
+	)
+	(fp_line
+		(start -2.5 2.5)
+		(end -2.1 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "177103f1-9407-4e40-9968-7192077a441d")
+	)
+	(fp_line
+		(start -2.49936 2.49936)
+		(end -2.49936 -2.49936)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "c0b44558-e2b8-425f-82d3-3fbd87031ca8")
+	)
+	(fp_line
+		(start -2.1 -2.7)
+		(end -1.2 -2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "0a28c7cb-9a92-49cc-88c5-7d11afdc1ad7")
+	)
+	(fp_line
+		(start -2.1 -1.8)
+		(end -2.1 -2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "65cfef91-8bd2-4754-9cac-734b8d77251e")
+	)
+	(fp_line
+		(start -2.1 1.8)
+		(end -1.2 1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1d4ebd26-c327-4c52-94a6-cde8b3cb9a37")
+	)
+	(fp_line
+		(start -2.1 2.7)
+		(end -2.1 1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ce35cdc4-3aae-4f75-9352-b6de82dbfdbe")
+	)
+	(fp_line
+		(start -1.2 -2.7)
+		(end -1.2 -1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "941d017b-0c7d-46e0-8046-5f4dc00e762c")
+	)
+	(fp_line
+		(start -1.2 -2.5)
+		(end 1.2 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "5bfc6e13-a896-40b7-9255-17e63675ad14")
+	)
+	(fp_line
+		(start -1.2 -1.8)
+		(end -2.1 -1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "36e2d48d-86ff-426a-973e-0d1e16df30c4")
+	)
+	(fp_line
+		(start -1.2 1.8)
+		(end -1.2 2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "b0526264-8ab8-4e7f-a7f4-944cc3d58136")
+	)
+	(fp_line
+		(start -1.2 2.5)
+		(end 1.2 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "066b6d50-8b2a-4015-be8a-5e388142f33a")
+	)
+	(fp_line
+		(start -1.2 2.7)
+		(end -2.1 2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "37778ed7-ffac-48ca-a766-98a331a8b36b")
+	)
+	(fp_line
+		(start 1.2 -2.7)
+		(end 1.2 -1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ec98594b-c18a-473f-a07a-47fb76e279be")
+	)
+	(fp_line
+		(start 1.2 -1.8)
+		(end 2.1 -1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "49439daf-4833-4118-aaf5-9b7358d7568a")
+	)
+	(fp_line
+		(start 1.2 1.8)
+		(end 2.1 1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "b0206678-b8c3-4a7e-93fd-c0c302655036")
+	)
+	(fp_line
+		(start 1.2 2.7)
+		(end 1.2 1.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "24d6f124-c4cb-4b3a-9f77-139324003f3e")
+	)
+	(fp_line
+		(start 2.1 -2.7)
+		(end 1.2 -2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "333e7106-c7fd-46fc-9112-030e04ceb6a9")
+	)
+	(fp_line
+		(start 2.1 -2.5)
+		(end 2.5 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ecfafdc7-61b6-4935-b27b-6b049bf33ee1")
+	)
+	(fp_line
+		(start 2.1 -1.8)
+		(end 2.1 -2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "17769638-d963-40ed-9318-0e3d256516a3")
+	)
+	(fp_line
+		(start 2.1 1.8)
+		(end 2.1 2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1abaddcb-fe73-4b3d-a478-145d268d9ca0")
+	)
+	(fp_line
+		(start 2.1 2.5)
+		(end 2.5 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "30143964-de12-4ef9-9ebb-3d5606aef0f3")
+	)
+	(fp_line
+		(start 2.1 2.7)
+		(end 1.2 2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "80f780f8-ac6a-4bdd-9879-deb7e2c7a6b3")
+	)
+	(fp_line
+		(start 2.5 -2.5)
+		(end 2.5 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "3ab548fa-d998-4074-a593-d03e62a522ce")
+	)
+	(pad "1" smd rect
+		(at 1.65 -2.4)
+		(size 1.4 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0662d823-ea2e-4282-94bb-7dbc278a1519")
+	)
+	(pad "2" smd rect
+		(at -1.65 -2.4)
+		(size 1.4 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c2d530be-b2d8-46f0-ae8a-bd50d439798a")
+	)
+	(pad "3" smd rect
+		(at -1.65 2.4)
+		(size 1.4 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "714f243f-284d-45e5-b1fd-749b845e88f0")
+	)
+	(pad "4" smd rect
+		(at 1.65 2.4)
+		(size 1.4 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "dd1fb1c3-a403-4391-b758-f191f8bfd74b")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
