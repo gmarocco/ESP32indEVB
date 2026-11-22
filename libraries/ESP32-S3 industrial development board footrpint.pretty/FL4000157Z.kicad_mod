@@ -1,0 +1,334 @@
+(footprint "FL4000157Z"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "FL4000157Z-2")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "REF**"
+		(at -1.346 2.246 0)
+		(layer "F.SilkS")
+		(uuid "80b538ef-cb5d-4dda-8596-bdcf6238f235")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "FL4000157Z"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "fecf04c3-07cd-46d0-b87f-b272a80bb194")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/FL4000157Z.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b339fcba-2c69-4b62-a6ca-549057bc5fe6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Crystals 40.000MHz 15pF 10ppm -20 to +85"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f99dc62-0ded-47d0-b6eb-971c5562c490")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.78"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a144d5d7-5d52-4db7-bad9-165d84eac83e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Diodes Incorporated"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63d1127a-4d81-497d-b4b4-08acd78fa6ba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "FL4000157Z"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f330154-bf2f-4c8d-b80c-0b4e6c4de757")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "729-FL4000157Z"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19d8c2c6-5b72-42bb-bb47-76f327ceda0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=729-FL4000157Z"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "46d76e07-50ec-4403-8aee-80c986e868e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea3517de-e174-43dd-85d2-76f08477327b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Library" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5956ce66-ce56-4d09-9933-dae023d6018e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Name" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "792e6e88-a41a-4d52-9f5c-a8915f15f1dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Params" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb72b6c1-e18a-49b6-836e-2cf07a384ded")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "418d8e7a-3020-4ae1-8b41-deee10b31393")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/gerarchico Sheet/ESP32-S3 MCU/")
+	(sheetfile "mcu_sch.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.4 0.8)
+		(end -2.4 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8f22ce89-de27-4826-a72d-4e433f735220")
+	)
+	(fp_line
+		(start -2.3 0.8)
+		(end -2.3 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "614a46f4-1993-4f0f-b403-c49a694bd625")
+	)
+	(fp_line
+		(start -1.905 -1.524)
+		(end -1.905 1.524)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "29407b8f-0fb0-4c93-9248-52c3bde58548")
+	)
+	(fp_line
+		(start 1.905 -1.524)
+		(end -1.905 -1.524)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "19adef08-aa8d-4c5c-ae06-879d273008d9")
+	)
+	(fp_line
+		(start 1.905 -1.524)
+		(end 1.905 1.524)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eb94f508-31fc-4174-a50e-f7bc4e149714")
+	)
+	(fp_line
+		(start 1.905 1.524)
+		(end -1.905 1.524)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "48edd1fb-6280-4b32-8def-c6fdb2b2bf15")
+	)
+	(fp_arc
+		(start -2.4 0.8)
+		(mid -2.35 0.75)
+		(end -2.3 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e42b3a3-5884-4b6a-bd61-e05b36eb34de")
+	)
+	(fp_arc
+		(start -2.3 0.8)
+		(mid -2.35 0.85)
+		(end -2.4 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ea2059d6-52fc-4e45-9a54-458f7e7f8f59")
+	)
+	(fp_line
+		(start -1.6 -1.25)
+		(end -1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5402925b-6cc1-419b-901c-c53975f0b48b")
+	)
+	(fp_line
+		(start 1.6 1.25)
+		(end 1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4b9aa893-5574-4398-91ad-db6f51080e44")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "ea9b7cf1-e95f-42ca-8cd0-e788af0afc80")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.05 0.8 90)
+		(size 1.2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "22d9e098-07f3-4514-9f69-bc27b5e93496")
+	)
+	(pad "2" smd rect
+		(at 1.05 0.8 90)
+		(size 1.2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a23d9fab-598f-46c8-b3b9-a4bc89cbde7e")
+	)
+	(pad "3" smd rect
+		(at 1.05 -0.8 90)
+		(size 1.2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "afcd478a-ac2b-4f5d-aeee-50d77f7ecf3c")
+	)
+	(pad "4" smd rect
+		(at -1.05 -0.8 90)
+		(size 1.2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d9d41a43-5830-4d85-b8dd-3e3045da83d8")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\FL4000157Z.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
