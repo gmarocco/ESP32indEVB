@@ -353,7 +353,7 @@
 		(uuid "ae2339d4-166a-4a46-86fa-4ade06f2cd8c")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/EVQ-PE104K_PNF04M_5PN04K.STEP"
+	(model "${KIPRJMOD}/lib/3dmodels/EVQ-PE104K_PNF04M_5PN04K.STEP"
 		(offset
 			(xyz 0 -2 0)
 		)

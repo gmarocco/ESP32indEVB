@@ -148,7 +148,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:+5P"
+		(symbol "ESP32indEVB:+5P"
 			(power global)
 			(pin_numbers
 				(hide yes)
@@ -287,7 +287,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:+5V"
+		(symbol "ESP32indEVB:+5V"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -423,7 +423,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:+5VA"
+		(symbol "ESP32indEVB:+5VA"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -559,7 +559,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:ACT1210D-101-2P-TL00"
+		(symbol "ESP32indEVB:ACT1210D-101-2P-TL00"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -841,7 +841,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:ADUM3201ARZ-RL7"
+		(symbol "ESP32indEVB:ADUM3201ARZ-RL7"
 			(pin_names
 				(offset 0.762)
 			)
@@ -1130,7 +1130,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:C_Small"
+		(symbol "ESP32indEVB:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1286,7 +1286,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:Conn_01x04_Pin"
+		(symbol "ESP32indEVB:Conn_01x04_Pin"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1549,7 +1549,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:FT230XS-R"
+		(symbol "ESP32indEVB:FT230XS-R"
 			(pin_names
 				(offset 0.762)
 			)
@@ -1580,7 +1580,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_SO:TSSOP-16_4.4x5mm_P0.65mm"
+			(property "Footprint" "ESP32indEVB:TSSOP-16_4.4x5mm_P0.65mm"
 				(at 29.21 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1995,7 +1995,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:GND"
+		(symbol "ESP32indEVB:GND"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -2107,7 +2107,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:GNDREF"
+		(symbol "ESP32indEVB:GNDREF"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -2255,7 +2255,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:LED"
+		(symbol "ESP32indEVB:LED"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2445,7 +2445,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:MAX13488EESA+T"
+		(symbol "ESP32indEVB:MAX13488EESA+T"
 			(pin_names
 				(offset 0.762)
 			)
@@ -2732,7 +2732,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:MCP2562-E_SN"
+		(symbol "ESP32indEVB:MCP2562-E_SN"
 			(pin_names
 				(offset 0.762)
 			)
@@ -3021,7 +3021,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:PESD2CANFD24L-UX"
+		(symbol "ESP32indEVB:PESD2CANFD24L-UX"
 			(pin_names
 				(offset 0.762)
 			)
@@ -3220,7 +3220,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:R"
+		(symbol "ESP32indEVB:R"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3360,7 +3360,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:TB006-508-03BE"
+		(symbol "ESP32indEVB:TB006-508-03BE"
 			(pin_names
 				(offset 0.762)
 			)
@@ -3559,7 +3559,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:TEA_1-0505"
+		(symbol "ESP32indEVB:TEA_1-0505"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3587,7 +3587,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "TEA10505"
+			(property "Footprint" "ESP32indEVB:TEA10505"
 				(at 29.21 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3769,7 +3769,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:UJ31-CH-G2-SMT-TR"
+		(symbol "ESP32indEVB:UJ31-CH-G2-SMT-TR"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4506,7 +4506,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:USBLC6-2SC6"
+		(symbol "ESP32indEVB:USBLC6-2SC6"
 			(pin_names
 				(offset 0.762)
 			)
@@ -7793,7 +7793,7 @@
 		(uuid "f1b9a119-3b6a-41c0-bd7e-02771ab20919")
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 57.15 137.668 0)
 		(unit 1)
 		(body_style 1)
@@ -7870,7 +7870,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 78.74 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -7948,7 +7948,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 222.25 104.14 0)
 		(unit 1)
 		(body_style 1)
@@ -8026,7 +8026,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 77.47 34.29 0)
 		(unit 1)
 		(body_style 1)
@@ -8104,7 +8104,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:USBLC6-2SC6")
+		(lib_id "ESP32indEVB:USBLC6-2SC6")
 		(at 71.12 160.02 0)
 		(unit 1)
 		(body_style 1)
@@ -8135,7 +8135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOT23-6"
+		(property "Footprint" "ESP32indEVB:SOT23-6"
 			(at 100.33 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -8328,7 +8328,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 149.86 37.084 0)
 		(unit 1)
 		(body_style 1)
@@ -8406,7 +8406,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 185.42 88.9 0)
 		(mirror x)
 		(unit 1)
@@ -8439,7 +8439,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 185.42 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -8547,7 +8547,7 @@
 	)
 	(symbol
 		(lib_name "+3V3_1")
-		(lib_id "scheda di sviluppo industriale:+3V3_1")
+		(lib_id "ESP32indEVB:+3V3_1")
 		(at 44.45 26.67 0)
 		(unit 1)
 		(body_style 1)
@@ -8625,7 +8625,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 115.57 146.05 0)
 		(unit 1)
 		(body_style 1)
@@ -8702,7 +8702,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 96.52 90.17 0)
 		(unit 1)
 		(body_style 1)
@@ -8780,7 +8780,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 196.85 85.09 0)
 		(unit 1)
 		(body_style 1)
@@ -8858,7 +8858,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 195.58 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -8936,7 +8936,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 72.39 53.34 0)
 		(unit 1)
 		(body_style 1)
@@ -9014,7 +9014,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TEA_1-0505")
+		(lib_id "ESP32indEVB:TEA_1-0505")
 		(at 19.558 77.724 90)
 		(unit 1)
 		(body_style 1)
@@ -9046,7 +9046,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TEA10505"
+		(property "Footprint" "ESP32indEVB:TEA10505"
 			(at 114.478 48.514 0)
 			(hide yes)
 			(show_name no)
@@ -9221,7 +9221,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TB006-508-03BE")
+		(lib_id "ESP32indEVB:TB006-508-03BE")
 		(at 223.52 44.45 0)
 		(unit 1)
 		(body_style 1)
@@ -9254,7 +9254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TerminalBlock_bornier-3_P5.08mm"
+		(property "Footprint" "ESP32indEVB:TerminalBlock_bornier-3_P5.08mm"
 			(at 240.03 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -9427,7 +9427,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 71.12 102.87 0)
 		(unit 1)
 		(body_style 1)
@@ -9505,7 +9505,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5VA")
+		(lib_id "ESP32indEVB:+5VA")
 		(at 80.01 22.86 0)
 		(unit 1)
 		(body_style 1)
@@ -9583,7 +9583,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:LED")
+		(lib_id "ESP32indEVB:LED")
 		(at 165.1 163.83 0)
 		(mirror x)
 		(unit 1)
@@ -9614,7 +9614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 165.1 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -9721,7 +9721,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5VA")
+		(lib_id "ESP32indEVB:+5VA")
 		(at 142.24 106.68 0)
 		(unit 1)
 		(body_style 1)
@@ -9799,7 +9799,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 43.688 156.21 270)
 		(mirror x)
 		(unit 1)
@@ -9830,7 +9830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 43.688 157.988 90)
 			(hide yes)
 			(show_name no)
@@ -9937,7 +9937,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5P")
+		(lib_id "ESP32indEVB:+5P")
 		(at 44.45 188.214 0)
 		(unit 1)
 		(body_style 1)
@@ -10014,7 +10014,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 14.478 80.518 0)
 		(unit 1)
 		(body_style 1)
@@ -10092,7 +10092,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:MCP2562-E_SN")
+		(lib_id "ESP32indEVB:MCP2562-E_SN")
 		(at 104.14 92.71 0)
 		(unit 1)
 		(body_style 1)
@@ -10123,7 +10123,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 			(at 128.27 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -10311,7 +10311,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 47.752 158.242 0)
 		(unit 1)
 		(body_style 1)
@@ -10388,7 +10388,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 34.29 85.09 0)
 		(unit 1)
 		(body_style 1)
@@ -10421,7 +10421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 34.29 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -10528,7 +10528,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD2CANFD24L-UX")
+		(lib_id "ESP32indEVB:PESD2CANFD24L-UX")
 		(at 208.28 104.14 90)
 		(mirror x)
 		(unit 1)
@@ -10561,7 +10561,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+		(property "Footprint" "ESP32indEVB:SOT-23-3"
 			(at 205.74 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -10745,7 +10745,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 176.53 158.75 90)
 		(mirror x)
 		(unit 1)
@@ -10776,7 +10776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 176.53 156.972 90)
 			(hide yes)
 			(show_name no)
@@ -10883,7 +10883,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 50.546 141.478 0)
 		(unit 1)
 		(body_style 1)
@@ -10960,7 +10960,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 63.5 187.96 0)
 		(unit 1)
 		(body_style 1)
@@ -11038,7 +11038,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD2CANFD24L-UX")
+		(lib_id "ESP32indEVB:PESD2CANFD24L-UX")
 		(at 212.09 54.61 270)
 		(unit 1)
 		(body_style 1)
@@ -11070,7 +11070,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+		(property "Footprint" "ESP32indEVB:SOT-23-3"
 			(at 214.63 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -11254,7 +11254,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 77.47 27.94 0)
 		(unit 1)
 		(body_style 1)
@@ -11287,7 +11287,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 77.47 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -11394,7 +11394,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 41.91 130.81 0)
 		(unit 1)
 		(body_style 1)
@@ -11471,7 +11471,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 137.16 114.3 0)
 		(unit 1)
 		(body_style 1)
@@ -11549,7 +11549,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 208.28 125.73 0)
 		(unit 1)
 		(body_style 1)
@@ -11627,7 +11627,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:ACT1210D-101-2P-TL00")
+		(lib_id "ESP32indEVB:ACT1210D-101-2P-TL00")
 		(at 161.036 97.79 0)
 		(unit 1)
 		(body_style 1)
@@ -11657,7 +11657,7 @@
 				)
 			)
 		)
-		(property "Footprint" "libraryloader:ACT45B1012PTL003"
+		(property "Footprint" "ESP32indEVB:ACT45B1012PTL003"
 			(at 177.546 192.71 0)
 			(hide yes)
 			(show_name no)
@@ -11843,7 +11843,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 160.02 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -11921,7 +11921,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 212.09 78.74 0)
 		(unit 1)
 		(body_style 1)
@@ -11999,7 +11999,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 160.02 38.1 180)
 		(unit 1)
 		(body_style 1)
@@ -12029,7 +12029,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 161.798 38.1 90)
 			(hide yes)
 			(show_name no)
@@ -12136,7 +12136,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 104.14 104.14 0)
 		(unit 1)
 		(body_style 1)
@@ -12214,7 +12214,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 185.42 104.902 0)
 		(unit 1)
 		(body_style 1)
@@ -12246,7 +12246,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 185.42 104.902 0)
 			(hide yes)
 			(show_name no)
@@ -12353,7 +12353,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 139.7 180.34 0)
 		(unit 1)
 		(body_style 1)
@@ -12431,7 +12431,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 205.74 96.266 180)
 		(unit 1)
 		(body_style 1)
@@ -12463,7 +12463,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 207.518 96.266 90)
 			(hide yes)
 			(show_name no)
@@ -12570,7 +12570,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 154.94 100.33 0)
 		(unit 1)
 		(body_style 1)
@@ -12602,7 +12602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 154.94 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12709,7 +12709,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 45.72 138.43 270)
 		(mirror x)
 		(unit 1)
@@ -12740,7 +12740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.72 140.208 90)
 			(hide yes)
 			(show_name no)
@@ -12847,7 +12847,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 207.01 48.26 180)
 		(unit 1)
 		(body_style 1)
@@ -12879,7 +12879,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 208.788 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -12986,7 +12986,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 55.88 132.588 0)
 		(unit 1)
 		(body_style 1)
@@ -13018,7 +13018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 55.88 132.588 0)
 			(hide yes)
 			(show_name no)
@@ -13125,7 +13125,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 24.638 81.026 0)
 		(unit 1)
 		(body_style 1)
@@ -13203,7 +13203,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5VA")
+		(lib_id "ESP32indEVB:+5VA")
 		(at 78.74 78.74 0)
 		(unit 1)
 		(body_style 1)
@@ -13281,7 +13281,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 195.58 53.34 0)
 		(unit 1)
 		(body_style 1)
@@ -13313,7 +13313,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 195.58 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -13420,7 +13420,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 43.18 50.8 0)
 		(unit 1)
 		(body_style 1)
@@ -13498,7 +13498,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 139.7 87.63 90)
 		(unit 1)
 		(body_style 1)
@@ -13529,7 +13529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 139.7 89.408 90)
 			(hide yes)
 			(show_name no)
@@ -13636,7 +13636,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 115.57 142.24 0)
 		(unit 1)
 		(body_style 1)
@@ -13668,7 +13668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 115.57 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13775,7 +13775,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 185.42 107.442 0)
 		(unit 1)
 		(body_style 1)
@@ -13853,7 +13853,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:ACT1210D-101-2P-TL00")
+		(lib_id "ESP32indEVB:ACT1210D-101-2P-TL00")
 		(at 163.83 44.45 0)
 		(unit 1)
 		(body_style 1)
@@ -13883,7 +13883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "libraryloader:ACT45B1012PTL003"
+		(property "Footprint" "ESP32indEVB:ACT45B1012PTL003"
 			(at 180.34 139.37 0)
 			(hide yes)
 			(show_name no)
@@ -14069,7 +14069,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:Conn_01x04_Pin")
+		(lib_id "ESP32indEVB:Conn_01x04_Pin")
 		(at 68.58 182.88 180)
 		(unit 1)
 		(body_style 1)
@@ -14099,7 +14099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "ESP32indEVB:PinHeader_1x04_P2.54mm_Vertical"
 			(at 68.58 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -14223,7 +14223,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5P")
+		(lib_id "ESP32indEVB:+5P")
 		(at 119.38 137.16 0)
 		(unit 1)
 		(body_style 1)
@@ -14300,7 +14300,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 148.59 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -14378,7 +14378,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 195.58 38.1 0)
 		(unit 1)
 		(body_style 1)
@@ -14410,7 +14410,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 195.58 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -14517,7 +14517,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5P")
+		(lib_id "ESP32indEVB:+5P")
 		(at 63.5 173.99 0)
 		(unit 1)
 		(body_style 1)
@@ -14594,7 +14594,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 160.02 52.07 180)
 		(unit 1)
 		(body_style 1)
@@ -14624,7 +14624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 161.798 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -14731,7 +14731,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 96.52 45.72 90)
 		(unit 1)
 		(body_style 1)
@@ -14761,7 +14761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 96.52 47.498 90)
 			(hide yes)
 			(show_name no)
@@ -14868,7 +14868,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5VA")
+		(lib_id "ESP32indEVB:+5VA")
 		(at 96.52 78.74 0)
 		(unit 1)
 		(body_style 1)
@@ -14946,7 +14946,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 200.66 35.56 0)
 		(unit 1)
 		(body_style 1)
@@ -15024,7 +15024,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 143.764 50.546 0)
 		(unit 1)
 		(body_style 1)
@@ -15102,7 +15102,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 87.63 172.72 0)
 		(unit 1)
 		(body_style 1)
@@ -15180,7 +15180,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 34.29 87.63 0)
 		(unit 1)
 		(body_style 1)
@@ -15258,7 +15258,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 35.56 34.29 0)
 		(unit 1)
 		(body_style 1)
@@ -15291,7 +15291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 35.56 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -15398,7 +15398,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5VA")
+		(lib_id "ESP32indEVB:+5VA")
 		(at 149.86 27.94 0)
 		(unit 1)
 		(body_style 1)
@@ -15476,7 +15476,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 35.56 36.83 0)
 		(unit 1)
 		(body_style 1)
@@ -15553,7 +15553,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 154.94 143.51 0)
 		(unit 1)
 		(body_style 1)
@@ -15630,7 +15630,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TB006-508-03BE")
+		(lib_id "ESP32indEVB:TB006-508-03BE")
 		(at 222.25 95.25 0)
 		(unit 1)
 		(body_style 1)
@@ -15662,7 +15662,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TerminalBlock_bornier-3_P5.08mm"
+		(property "Footprint" "ESP32indEVB:TerminalBlock_bornier-3_P5.08mm"
 			(at 238.76 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -15835,7 +15835,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:LED")
+		(lib_id "ESP32indEVB:LED")
 		(at 165.1 158.75 0)
 		(mirror x)
 		(unit 1)
@@ -15866,7 +15866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 165.1 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -15973,7 +15973,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 149.86 34.29 0)
 		(unit 1)
 		(body_style 1)
@@ -16005,7 +16005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 149.86 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -16112,7 +16112,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GNDREF")
+		(lib_id "ESP32indEVB:GNDREF")
 		(at 223.52 53.34 0)
 		(unit 1)
 		(body_style 1)
@@ -16190,7 +16190,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 154.94 140.97 0)
 		(unit 1)
 		(body_style 1)
@@ -16222,7 +16222,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 154.94 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -16329,7 +16329,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 59.69 132.588 0)
 		(mirror x)
 		(unit 1)
@@ -16360,7 +16360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 57.912 132.588 90)
 			(hide yes)
 			(show_name no)
@@ -16467,7 +16467,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:MAX13488EESA+T")
+		(lib_id "ESP32indEVB:MAX13488EESA+T")
 		(at 114.3 41.91 0)
 		(unit 1)
 		(body_style 1)
@@ -16498,7 +16498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 			(at 138.43 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -16686,7 +16686,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:ADUM3201ARZ-RL7")
+		(lib_id "ESP32indEVB:ADUM3201ARZ-RL7")
 		(at 43.18 92.71 0)
 		(unit 1)
 		(body_style 1)
@@ -16717,7 +16717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 			(at 67.31 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -16905,7 +16905,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5VA")
+		(lib_id "ESP32indEVB:+5VA")
 		(at 30.226 78.994 0)
 		(unit 1)
 		(body_style 1)
@@ -16983,7 +16983,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 19.558 77.724 0)
 		(unit 1)
 		(body_style 1)
@@ -17060,7 +17060,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:ADUM3201ARZ-RL7")
+		(lib_id "ESP32indEVB:ADUM3201ARZ-RL7")
 		(at 44.45 41.91 0)
 		(unit 1)
 		(body_style 1)
@@ -17091,7 +17091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 			(at 68.58 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -17279,7 +17279,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 78.74 86.36 0)
 		(unit 1)
 		(body_style 1)
@@ -17312,7 +17312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 78.74 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -17419,7 +17419,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 96.52 86.36 0)
 		(unit 1)
 		(body_style 1)
@@ -17452,7 +17452,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 96.52 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -17559,7 +17559,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 41.91 101.6 0)
 		(unit 1)
 		(body_style 1)
@@ -17637,7 +17637,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 176.53 163.83 90)
 		(mirror x)
 		(unit 1)
@@ -17668,7 +17668,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 176.53 162.052 90)
 			(hide yes)
 			(show_name no)
@@ -17775,7 +17775,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:FT230XS-R")
+		(lib_id "ESP32indEVB:FT230XS-R")
 		(at 123.19 151.13 0)
 		(unit 1)
 		(body_style 1)
@@ -17807,7 +17807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-16_4.4x5mm_P0.65mm"
+		(property "Footprint" "ESP32indEVB:TSSOP-16_4.4x5mm_P0.65mm"
 			(at 152.4 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -18030,7 +18030,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:UJ31-CH-G2-SMT-TR")
+		(lib_id "ESP32indEVB:UJ31-CH-G2-SMT-TR")
 		(at 25.4 156.21 0)
 		(mirror x)
 		(unit 1)
@@ -18061,7 +18061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "libraryloader:UJ31CHG2SMTTR"
+		(property "Footprint" "ESP32indEVB:UJ31CHG2SMTTR"
 			(at 25.4 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -18403,7 +18403,7 @@
 	)
 	(symbol
 		(lib_name "+3V3_1")
-		(lib_id "scheda di sviluppo industriale:+3V3_1")
+		(lib_id "ESP32indEVB:+3V3_1")
 		(at 43.18 80.01 0)
 		(unit 1)
 		(body_style 1)
@@ -18481,7 +18481,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 137.16 111.76 0)
 		(unit 1)
 		(body_style 1)
@@ -18514,7 +18514,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 137.16 111.76 0)
 			(hide yes)
 			(show_name no)

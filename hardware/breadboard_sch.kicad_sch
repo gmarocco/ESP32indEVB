@@ -148,7 +148,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:+5V"
+		(symbol "ESP32indEVB:+5V"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -284,7 +284,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:GND"
+		(symbol "ESP32indEVB:GND"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -396,7 +396,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:NCP718xSN180"
+		(symbol "ESP32indEVB:NCP718xSN180"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -422,7 +422,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(property "Footprint" "ESP32indEVB:SOT-23-5"
 				(at 0 8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -584,7 +584,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:NE555DR"
+		(symbol "ESP32indEVB:NE555DR"
 			(pin_names
 				(offset 0.762)
 			)
@@ -897,7 +897,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:TestPoint"
+		(symbol "ESP32indEVB:TestPoint"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2893,7 +2893,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:NCP718xSN180")
+		(lib_id "ESP32indEVB:NCP718xSN180")
 		(at 230.378 88.392 0)
 		(unit 1)
 		(body_style 1)
@@ -2924,7 +2924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "ESP32indEVB:SOT-23-5"
 			(at 230.378 79.502 0)
 			(hide yes)
 			(show_name no)
@@ -3040,7 +3040,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 97.028 125.222 0)
 		(unit 1)
 		(body_style 1)
@@ -3073,7 +3073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 102.108 125.222 0)
 			(hide yes)
 			(show_name no)
@@ -3177,7 +3177,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 69.088 111.252 0)
 		(unit 1)
 		(body_style 1)
@@ -3211,7 +3211,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 74.168 111.252 0)
 			(hide yes)
 			(show_name no)
@@ -3315,7 +3315,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 220.726 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -3349,7 +3349,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 225.806 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -3453,7 +3453,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 156.718 94.742 0)
 		(unit 1)
 		(body_style 1)
@@ -3487,7 +3487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 161.798 94.742 0)
 			(hide yes)
 			(show_name no)
@@ -3591,7 +3591,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 76.708 94.742 0)
 		(unit 1)
 		(body_style 1)
@@ -3625,7 +3625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 81.788 94.742 0)
 			(hide yes)
 			(show_name no)
@@ -3729,7 +3729,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 149.352 56.134 0)
 		(unit 1)
 		(body_style 1)
@@ -3763,7 +3763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 154.432 56.134 0)
 			(hide yes)
 			(show_name no)
@@ -3867,7 +3867,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 251.968 84.582 0)
 		(unit 1)
 		(body_style 1)
@@ -3901,7 +3901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 257.048 84.582 0)
 			(hide yes)
 			(show_name no)
@@ -4005,7 +4005,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 131.318 56.896 0)
 		(unit 1)
 		(body_style 1)
@@ -4039,7 +4039,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 136.398 56.896 0)
 			(hide yes)
 			(show_name no)
@@ -4143,7 +4143,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 158.496 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -4177,7 +4177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 163.576 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4281,7 +4281,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 71.628 94.742 0)
 		(unit 1)
 		(body_style 1)
@@ -4315,7 +4315,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 76.708 94.742 0)
 			(hide yes)
 			(show_name no)
@@ -4419,7 +4419,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 240.538 103.632 0)
 		(unit 1)
 		(body_style 1)
@@ -4453,7 +4453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 245.618 103.632 0)
 			(hide yes)
 			(show_name no)
@@ -4557,7 +4557,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 67.818 98.552 0)
 		(unit 1)
 		(body_style 1)
@@ -4591,7 +4591,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 72.898 98.552 0)
 			(hide yes)
 			(show_name no)
@@ -4695,7 +4695,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 132.588 103.632 0)
 		(unit 1)
 		(body_style 1)
@@ -4729,7 +4729,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 137.668 103.632 0)
 			(hide yes)
 			(show_name no)
@@ -4833,7 +4833,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 183.388 79.502 0)
 		(unit 1)
 		(body_style 1)
@@ -4867,7 +4867,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 188.468 79.502 0)
 			(hide yes)
 			(show_name no)
@@ -4971,7 +4971,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 216.408 93.472 0)
 		(unit 1)
 		(body_style 1)
@@ -5005,7 +5005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 221.488 93.472 0)
 			(hide yes)
 			(show_name no)
@@ -5109,7 +5109,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 90.678 79.502 0)
 		(unit 1)
 		(body_style 1)
@@ -5143,7 +5143,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 95.758 79.502 0)
 			(hide yes)
 			(show_name no)
@@ -5247,7 +5247,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 117.348 99.822 0)
 		(unit 1)
 		(body_style 1)
@@ -5281,7 +5281,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 122.428 99.822 0)
 			(hide yes)
 			(show_name no)
@@ -5385,7 +5385,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 171.196 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -5419,7 +5419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 176.276 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5523,7 +5523,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 128.27 56.896 0)
 		(unit 1)
 		(body_style 1)
@@ -5557,7 +5557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 133.35 56.896 0)
 			(hide yes)
 			(show_name no)
@@ -5661,7 +5661,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 137.922 56.642 0)
 		(unit 1)
 		(body_style 1)
@@ -5695,7 +5695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 143.002 56.642 0)
 			(hide yes)
 			(show_name no)
@@ -5799,7 +5799,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 205.486 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -5833,7 +5833,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 210.566 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5937,7 +5937,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 112.268 99.822 0)
 		(unit 1)
 		(body_style 1)
@@ -5971,7 +5971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 117.348 99.822 0)
 			(hide yes)
 			(show_name no)
@@ -6075,7 +6075,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 210.566 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -6109,7 +6109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 215.646 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6213,7 +6213,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 52.578 103.632 0)
 		(unit 1)
 		(body_style 1)
@@ -6247,7 +6247,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 57.658 103.632 0)
 			(hide yes)
 			(show_name no)
@@ -6351,7 +6351,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:NE555DR")
+		(lib_id "ESP32indEVB:NE555DR")
 		(at 157.988 96.012 0)
 		(unit 1)
 		(body_style 1)
@@ -6381,7 +6381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "ESP32indEVB:MSOP-8_3x3mm_P0.65mm"
 			(at 184.658 85.852 0)
 			(hide yes)
 			(show_name no)
@@ -6593,7 +6593,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 197.358 99.822 0)
 		(unit 1)
 		(body_style 1)
@@ -6627,7 +6627,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 202.438 99.822 0)
 			(hide yes)
 			(show_name no)
@@ -6731,7 +6731,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 57.658 103.632 0)
 		(unit 1)
 		(body_style 1)
@@ -6765,7 +6765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 62.738 103.632 0)
 			(hide yes)
 			(show_name no)
@@ -6869,7 +6869,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 244.348 93.726 0)
 		(unit 1)
 		(body_style 1)
@@ -6903,7 +6903,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 249.428 93.726 0)
 			(hide yes)
 			(show_name no)
@@ -7007,7 +7007,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 73.914 59.436 0)
 		(unit 1)
 		(body_style 1)
@@ -7041,7 +7041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 78.994 59.436 0)
 			(hide yes)
 			(show_name no)
@@ -7145,7 +7145,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 103.378 79.502 0)
 		(unit 1)
 		(body_style 1)
@@ -7179,7 +7179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 108.458 79.502 0)
 			(hide yes)
 			(show_name no)
@@ -7283,7 +7283,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 177.038 125.222 0)
 		(unit 1)
 		(body_style 1)
@@ -7316,7 +7316,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 182.118 125.222 0)
 			(hide yes)
 			(show_name no)
@@ -7420,7 +7420,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 181.356 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -7454,7 +7454,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 186.436 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7558,7 +7558,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 110.744 59.436 0)
 		(unit 1)
 		(body_style 1)
@@ -7592,7 +7592,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 115.824 59.436 0)
 			(hide yes)
 			(show_name no)
@@ -7696,7 +7696,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 137.668 103.632 0)
 		(unit 1)
 		(body_style 1)
@@ -7730,7 +7730,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 142.748 103.632 0)
 			(hide yes)
 			(show_name no)
@@ -7834,7 +7834,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 187.706 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -7868,7 +7868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 192.786 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7972,7 +7972,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 215.646 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -8006,7 +8006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 220.726 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -8110,7 +8110,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 74.168 111.252 0)
 		(unit 1)
 		(body_style 1)
@@ -8144,7 +8144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 79.248 111.252 0)
 			(hide yes)
 			(show_name no)
@@ -8248,7 +8248,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 82.804 59.436 0)
 		(unit 1)
 		(body_style 1)
@@ -8282,7 +8282,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 87.884 59.436 0)
 			(hide yes)
 			(show_name no)
@@ -8386,7 +8386,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 194.056 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -8420,7 +8420,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 199.136 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -8524,7 +8524,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 176.276 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -8558,7 +8558,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 181.356 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -8662,7 +8662,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 210.058 93.472 0)
 		(unit 1)
 		(body_style 1)
@@ -8696,7 +8696,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 215.138 93.472 0)
 			(hide yes)
 			(show_name no)
@@ -8800,7 +8800,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 200.406 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -8834,7 +8834,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 205.486 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -8938,7 +8938,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 162.052 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -8972,7 +8972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 167.132 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -9076,7 +9076,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 165.608 79.502 0)
 		(unit 1)
 		(body_style 1)
@@ -9110,7 +9110,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 170.688 79.502 0)
 			(hide yes)
 			(show_name no)
@@ -9214,7 +9214,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 149.098 111.252 0)
 		(unit 1)
 		(body_style 1)
@@ -9248,7 +9248,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 154.178 111.252 0)
 			(hide yes)
 			(show_name no)
@@ -9352,7 +9352,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 182.118 125.222 0)
 		(unit 1)
 		(body_style 1)
@@ -9385,7 +9385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 187.198 125.222 0)
 			(hide yes)
 			(show_name no)
@@ -9489,7 +9489,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 171.196 60.452 0)
 		(unit 1)
 		(body_style 1)
@@ -9567,7 +9567,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 166.116 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -9601,7 +9601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 171.196 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -9705,7 +9705,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 77.724 59.436 0)
 		(unit 1)
 		(body_style 1)
@@ -9739,7 +9739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 82.804 59.436 0)
 			(hide yes)
 			(show_name no)
@@ -9843,7 +9843,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 115.824 59.436 0)
 		(unit 1)
 		(body_style 1)
@@ -9877,7 +9877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 120.904 59.436 0)
 			(hide yes)
 			(show_name no)
@@ -9981,7 +9981,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 178.308 79.502 0)
 		(unit 1)
 		(body_style 1)
@@ -10015,7 +10015,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 183.388 79.502 0)
 			(hide yes)
 			(show_name no)
@@ -10119,7 +10119,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 192.278 99.822 0)
 		(unit 1)
 		(body_style 1)
@@ -10153,7 +10153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 197.358 99.822 0)
 			(hide yes)
 			(show_name no)
@@ -10257,7 +10257,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 216.408 84.582 0)
 		(unit 1)
 		(body_style 1)
@@ -10291,7 +10291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 221.488 84.582 0)
 			(hide yes)
 			(show_name no)
@@ -10395,7 +10395,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 248.158 103.632 0)
 		(unit 1)
 		(body_style 1)
@@ -10429,7 +10429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 253.238 103.632 0)
 			(hide yes)
 			(show_name no)
@@ -10533,7 +10533,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 244.348 84.582 0)
 		(unit 1)
 		(body_style 1)
@@ -10567,7 +10567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 249.428 84.582 0)
 			(hide yes)
 			(show_name no)
@@ -10671,7 +10671,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 170.688 79.502 0)
 		(unit 1)
 		(body_style 1)
@@ -10705,7 +10705,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 175.768 79.502 0)
 			(hide yes)
 			(show_name no)
@@ -10809,7 +10809,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 210.058 84.582 0)
 		(unit 1)
 		(body_style 1)
@@ -10843,7 +10843,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 215.138 84.582 0)
 			(hide yes)
 			(show_name no)
@@ -10947,7 +10947,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 67.056 53.594 0)
 		(unit 1)
 		(body_style 1)
@@ -11025,7 +11025,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 153.924 56.134 0)
 		(unit 1)
 		(body_style 1)
@@ -11059,7 +11059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 159.004 56.134 0)
 			(hide yes)
 			(show_name no)
@@ -11163,7 +11163,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 102.108 125.222 0)
 		(unit 1)
 		(body_style 1)
@@ -11196,7 +11196,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 107.188 125.222 0)
 			(hide yes)
 			(show_name no)
@@ -11300,7 +11300,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 101.854 59.436 0)
 		(unit 1)
 		(body_style 1)
@@ -11334,7 +11334,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 106.934 59.436 0)
 			(hide yes)
 			(show_name no)
@@ -11438,7 +11438,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 145.288 56.134 0)
 		(unit 1)
 		(body_style 1)
@@ -11472,7 +11472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 150.368 56.134 0)
 			(hide yes)
 			(show_name no)
@@ -11576,7 +11576,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 151.638 94.742 0)
 		(unit 1)
 		(body_style 1)
@@ -11610,7 +11610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 156.718 94.742 0)
 			(hide yes)
 			(show_name no)
@@ -11714,7 +11714,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 225.806 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -11748,7 +11748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 230.886 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -11852,7 +11852,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:NE555DR")
+		(lib_id "ESP32indEVB:NE555DR")
 		(at 77.978 96.012 0)
 		(unit 1)
 		(body_style 1)
@@ -11882,7 +11882,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 			(at 104.648 85.852 0)
 			(hide yes)
 			(show_name no)
@@ -12105,7 +12105,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 134.366 56.642 0)
 		(unit 1)
 		(body_style 1)
@@ -12139,7 +12139,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 139.446 56.642 0)
 			(hide yes)
 			(show_name no)
@@ -12244,7 +12244,7 @@
 	)
 	(symbol
 		(lib_name "+3V3_1")
-		(lib_id "scheda di sviluppo industriale:+3V3_1")
+		(lib_id "ESP32indEVB:+3V3_1")
 		(at 97.536 53.34 0)
 		(unit 1)
 		(body_style 1)
@@ -12321,7 +12321,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 141.478 56.388 0)
 		(unit 1)
 		(body_style 1)
@@ -12355,7 +12355,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 146.558 56.388 0)
 			(hide yes)
 			(show_name no)
@@ -12459,7 +12459,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 85.598 79.502 0)
 		(unit 1)
 		(body_style 1)
@@ -12493,7 +12493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 90.678 79.502 0)
 			(hide yes)
 			(show_name no)
@@ -12597,7 +12597,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 147.828 98.552 0)
 		(unit 1)
 		(body_style 1)
@@ -12631,7 +12631,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 152.908 98.552 0)
 			(hide yes)
 			(show_name no)
@@ -12735,7 +12735,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 229.362 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -12769,7 +12769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 234.442 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12873,7 +12873,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 62.738 98.552 0)
 		(unit 1)
 		(body_style 1)
@@ -12907,7 +12907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 67.818 98.552 0)
 			(hide yes)
 			(show_name no)
@@ -13011,7 +13011,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 98.298 79.502 0)
 		(unit 1)
 		(body_style 1)
@@ -13045,7 +13045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 103.378 79.502 0)
 			(hide yes)
 			(show_name no)
@@ -13149,7 +13149,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 154.178 111.252 0)
 		(unit 1)
 		(body_style 1)
@@ -13183,7 +13183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 159.258 111.252 0)
 			(hide yes)
 			(show_name no)
@@ -13287,7 +13287,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 251.968 93.472 0)
 		(unit 1)
 		(body_style 1)
@@ -13321,7 +13321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 257.048 93.472 0)
 			(hide yes)
 			(show_name no)
@@ -13425,7 +13425,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 142.748 98.552 0)
 		(unit 1)
 		(body_style 1)
@@ -13459,7 +13459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TestPoint_Pad_through hole 1.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 			(at 147.828 98.552 0)
 			(hide yes)
 			(show_name no)

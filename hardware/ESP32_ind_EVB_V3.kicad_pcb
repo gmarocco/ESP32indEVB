@@ -163,7 +163,7 @@
 			(description "stub matching network")
 		)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "0010c129-3a48-4503-a47f-3c3d432bb1a2")
 		(at 114.9615 91.347 90)
@@ -413,7 +413,7 @@
 			(uuid "38d3a7ce-1d85-4025-9322-8304f8edbd13")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -425,7 +425,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:TEA10505"
+	(footprint "ESP32indEVB:TEA10505"
 		(layer "F.Cu")
 		(uuid "0212ebf9-b56a-477a-82ba-b0cd836c455b")
 		(at 134.0625 72.22 90)
@@ -798,7 +798,7 @@
 			(uuid "de705693-736c-4685-9ffa-6657247f8e59")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\TEA_1-0505.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/TEA_1-0505.stp"
 			(offset
 				(xyz -1.789999935 -0.999999985 -4.159999785)
 			)
@@ -810,7 +810,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "02dcaa3f-e77c-4f7d-8f7e-d7046d13ea1b")
 		(at 173.6355 119.668)
@@ -996,7 +996,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "03be7189-c3e2-495a-b57f-e36765cadaa0")
 		(at 188.3675 105.571)
@@ -1182,7 +1182,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "0674c5bb-ea01-4b19-aafd-9ba6d866b203")
 		(at 151.0625 69)
@@ -1432,7 +1432,7 @@
 			(uuid "5c1e5e27-a42b-40ce-bf81-4842d5da25e7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1444,7 +1444,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "07802f44-7fff-49b6-8902-8c5064a38bd0")
 		(at 153.8997 131.3012 90)
@@ -1694,7 +1694,7 @@
 			(uuid "cdca3253-7c82-4acd-8534-b9e7424bc19e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1706,7 +1706,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "0872fb9a-19c1-4a70-85cd-e04c89382b7e")
 		(at 174.5245 112.81)
@@ -1892,7 +1892,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "scheda di sviluppo industriale:SOD-323"
+	(footprint "ESP32indEVB:SOD-323"
 		(layer "F.Cu")
 		(uuid "0a383565-57ce-459d-94e7-3f1ba479f324")
 		(at 104.8625 57.1)
@@ -2298,7 +2298,7 @@
 			(uuid "b3a61ed9-5f00-4769-8c4f-f0df22a1e792")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2310,7 +2310,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "0a6db83c-c08f-48aa-be87-32468a0720b5")
 		(at 176.8105 115.096)
@@ -2496,7 +2496,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "0d6a3930-f6cc-470c-ad3a-0ec1880dec26")
 		(at 137.3625 93.6)
@@ -2746,7 +2746,7 @@
 			(uuid "97cd22f2-a549-4b89-b95e-222be2ee838b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2758,7 +2758,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:SOD-323"
+	(footprint "ESP32indEVB:SOD-323"
 		(layer "F.Cu")
 		(uuid "0dba7606-5f55-4393-817a-39ae0ee9b49d")
 		(at 104.9625 51.7)
@@ -3164,7 +3164,7 @@
 			(uuid "7850ff7b-c6ad-435c-9b62-b03c3a92249a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3176,7 +3176,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TerminalBlock_bornier-3_P5.08mm"
+	(footprint "ESP32indEVB:TerminalBlock_bornier-3_P5.08mm"
 		(layer "F.Cu")
 		(uuid "0e69da64-c262-4d6e-a605-bbbf0985a0aa")
 		(at 177.725 46.4 180)
@@ -3493,7 +3493,7 @@
 			(uuid "d7f750f4-54b3-4857-8830-fd6d2e2a3db1")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/282837-3.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/282837-3.stp"
 			(offset
 				(xyz 0 -4 2.5)
 			)
@@ -3505,7 +3505,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "100b3542-cb00-4ec8-b3f2-331d45b5d671")
 		(at 178.0805 122.208)
@@ -3691,7 +3691,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "105d484e-7ab4-40d3-910a-0971afd4ca9c")
 		(at 192.6625 124.875)
@@ -3890,7 +3890,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "10cf536e-7c55-40ef-bfea-0a7de9d37f34")
 		(at 192.9395 113.699)
@@ -4076,7 +4076,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "10f772f4-1b94-4267-95ac-6e47a08b2810")
 		(at 116.3625 124.5125 -90)
@@ -4326,7 +4326,7 @@
 			(uuid "306b769a-832b-43b7-85a2-6bce99e151f1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4338,7 +4338,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "11b93bbc-0eb1-49b1-bbde-de47dcc5fdba")
 		(at 131.9541 59.1652)
@@ -4588,7 +4588,7 @@
 			(uuid "1b0b7aa6-561b-4239-a6d6-9179025281c1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4600,7 +4600,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
+	(footprint "ESP32indEVB:PinSocket_1x05_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "11d11dd3-ba2b-438f-9bf0-b76d54e9d7d9")
 		(at 99.7625 63.65)
@@ -5117,7 +5117,7 @@
 			(uuid "2ca93c25-ab66-47b8-bdcd-735e2903cd27")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x05_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/PinSocket_1x05_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5129,7 +5129,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "1449aff2-3bc0-42bf-96a9-30534703037d")
 		(at 188.2405 98.205)
@@ -5315,7 +5315,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "1498bffe-738b-40d6-8773-6470cc58e6a8")
 		(at 149.425 57.8)
@@ -5565,7 +5565,7 @@
 			(uuid "6eb2dbcf-b0ed-42ad-aa07-faf6ff95531d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5577,7 +5577,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "1568a056-8f2d-4b0b-9e1a-724190c243c5")
 		(at 127.3625 81.7 180)
@@ -5841,7 +5841,7 @@
 			(uuid "fc34f37f-cb92-48b8-bb3b-6e85a4530bda")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5853,7 +5853,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "15724b9b-8628-45c7-8b24-60001d92410b")
 		(at 192.6625 119.922)
@@ -6039,7 +6039,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "16cd79af-d1a1-4957-bf02-f6242961e715")
 		(at 116.8665 105.952 -90)
@@ -6306,7 +6306,7 @@
 			(dnp no)
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6318,7 +6318,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+	(footprint "ESP32indEVB:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 		(layer "F.Cu")
 		(uuid "1713fab5-fd87-4015-b38b-b26933e744ac")
 		(at 112.2945 86.48)
@@ -6484,7 +6484,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "17d25aac-414e-44e4-8aea-80eb9720ceda")
 		(at 140.8625 114.9 -90)
@@ -6734,7 +6734,7 @@
 			(uuid "6cdea866-7a43-4685-8423-82f8f527c929")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6746,7 +6746,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "1898bd9f-227b-4901-94f4-800c21e9f8c9")
 		(at 127.0625 70.1888 90)
@@ -7009,7 +7009,7 @@
 			(uuid "700c6c49-8e63-448a-9198-271ffc7877e0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7021,7 +7021,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:1812L010DR"
+	(footprint "ESP32indEVB:1812L010DR"
 		(layer "F.Cu")
 		(uuid "1ab05557-5e0c-474a-8030-0f0cb90fae9a")
 		(at 154.6625 108.6 -90)
@@ -7382,7 +7382,7 @@
 			(uuid "ebb953f5-9e8c-40b6-a853-589dcbf030f4")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\1812L150_24MR.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/1812L150_24MR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7394,7 +7394,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "1bcf3b14-7000-4033-8459-fe2485d8b7c0")
 		(at 170.1625 55.3 -90)
@@ -7644,7 +7644,7 @@
 			(uuid "ffd36e1f-e3c2-4e84-b8b8-b9577d2ee750")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7656,7 +7656,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:SOT23-6"
+	(footprint "ESP32indEVB:SOT23-6"
 		(layer "F.Cu")
 		(uuid "1deb5a93-6e9b-4c55-af51-c13026f08535")
 		(at 153.3155 125.6 90)
@@ -8010,7 +8010,7 @@
 			(uuid "e363d833-3b53-414f-9f6c-c9d5446f70f9")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\SMS3.3.TCT.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/SMS3.3.TCT.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8022,7 +8022,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:SOD-323"
+	(footprint "ESP32indEVB:SOD-323"
 		(layer "F.Cu")
 		(uuid "1fd69d18-1ef1-4029-9fd8-32fc52c771b7")
 		(at 105.0125 67.95)
@@ -8428,7 +8428,7 @@
 			(uuid "aa479a43-ead6-45ef-b0fc-2b10a9ef300f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8440,7 +8440,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "227ba4e1-ab7f-4328-9f42-8bd635ae47ee")
 		(at 180.8745 98.205)
@@ -8626,7 +8626,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "258b91fc-b64f-4ef0-bbcc-70b0ddbb3bb9")
 		(at 138.0625 65.2 -90)
@@ -8876,7 +8876,7 @@
 			(uuid "754c2f67-cc06-4360-a17f-182886e4b8fe")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8888,7 +8888,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "278c22ba-f2e5-417f-a214-0197813a73a7")
 		(at 104.7625 54.6)
@@ -9138,7 +9138,7 @@
 			(uuid "8bc0dd63-9e3f-47c9-b04d-614fe22a5ebb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9150,7 +9150,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "289383e9-bad3-4e7f-ac64-2a1d2f6e6f15")
 		(at 174.5245 115.096)
@@ -9336,7 +9336,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "2899ed9f-d571-4eca-875d-cddcbfeb527f")
 		(at 175.0125 57.5)
@@ -9586,7 +9586,7 @@
 			(uuid "37419396-a3fa-403f-9369-4e241489e473")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9598,7 +9598,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "29240fe9-8541-4943-9fd0-b28d52601a92")
 		(at 139.2625 96 90)
@@ -9848,7 +9848,7 @@
 			(uuid "a61b39c5-f215-4e72-8d92-52abb13ae191")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9860,7 +9860,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "2a9b69d7-dc80-4cdb-9258-8a8786328d1d")
 		(at 176.8105 107.984)
@@ -10046,7 +10046,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "2bfcba7f-437a-46f4-b3d3-535d57c05b2f")
 		(at 176.8105 103.285)
@@ -10232,7 +10232,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "2ec81792-b9bf-4720-b881-e173ee438600")
 		(at 133.4725 105.89)
@@ -10496,7 +10496,7 @@
 			(uuid "b0910bf9-244e-41c5-9215-baed45ca6085")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10508,7 +10508,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "2f7a78bd-3020-46f7-b6a3-28686ae053a1")
 		(at 192.9395 100.745)
@@ -10694,7 +10694,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "2ff635f3-d162-4293-b308-8ff15a46e82b")
 		(at 155.7285 118.652 90)
@@ -10944,7 +10944,7 @@
 			(uuid "5efff0cb-c068-4983-844c-4639036ad3de")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10956,7 +10956,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3"
+	(footprint "ESP32indEVB:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "32408237-f9ba-4234-a8ed-ca6a4ec4ef77")
 		(at 101.4832 130.7476)
@@ -11128,7 +11128,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "33593dc5-4814-4c30-b4be-07503def66ca")
 		(at 149.4625 59.5 180)
@@ -11378,7 +11378,7 @@
 			(uuid "80f8074c-329c-4553-be12-298f4ecab741")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11390,7 +11390,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:WS2812B"
+	(footprint "ESP32indEVB:WS2812B"
 		(layer "F.Cu")
 		(uuid "350eb501-2445-42ca-8a47-8d1f96f1020e")
 		(at 150.7625 86.45 90)
@@ -11898,7 +11898,7 @@
 			(uuid "289c90a0-095d-4880-9953-84a57337600f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/WS2812_RGB_LED_updated.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11910,7 +11910,7 @@
 			)
 		)
 	)
-	(footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+	(footprint "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "35f25c6f-d6d9-46f9-b512-2e25f30f77e5")
 		(at 143.1625 59.9)
@@ -12323,7 +12323,7 @@
 			(uuid "a6f0bb7b-9c65-4bc7-bd95-e9bba38348b2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SO-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12335,7 +12335,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "36125af4-bf9a-46a0-8fc0-fbfc8ccec951")
 		(at 143.85 89.95 90)
@@ -12585,7 +12585,7 @@
 			(uuid "842049b4-e671-435a-8c59-404dbf5dd55f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12597,7 +12597,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "37879ab6-3eeb-40bd-9706-489b6c22ab81")
 		(at 188.1135 119.922)
@@ -12783,7 +12783,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "37edd7af-4ba1-4d16-89a7-389e865427c2")
 		(at 104.9625 75.2)
@@ -13033,7 +13033,7 @@
 			(uuid "c07f337c-a10d-4e99-b2dd-e6020fb02dcd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13045,7 +13045,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-5"
+	(footprint "ESP32indEVB:SOT-23-5"
 		(layer "F.Cu")
 		(uuid "38d5e967-ab36-4aaf-a18b-15b2c4576b61")
 		(at 184.9385 102.396)
@@ -13369,7 +13369,7 @@
 			(uuid "c68d9666-ae72-4be9-b860-d8bb5039ffe2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SOT-23-5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13381,7 +13381,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-3"
+	(footprint "ESP32indEVB:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "38f2abf6-64ae-4faa-a3fd-43ad8720da42")
 		(at 135.1625 54.4 180)
@@ -13757,7 +13757,7 @@
 			(uuid "0c19e83b-9e52-4560-a841-5d25e0180fc6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SOT-23-3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13769,7 +13769,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "ESP32indEVB:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "39777a36-7c12-4c45-8021-44141038fbe7")
 		(at 138.3225 118.6 90)
@@ -14108,7 +14108,7 @@
 			(uuid "5fccba20-3d18-4555-8e30-32fdd00d9b03")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/M20-7820446.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/M20-7820446.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14120,7 +14120,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "397f2f79-1b7c-43d0-ae13-71e7fd43eda8")
 		(at 192.9395 110.397)
@@ -14306,7 +14306,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "3a202686-22c6-4c8e-9cd0-789875cf3232")
 		(at 188.3675 103.158)
@@ -14492,7 +14492,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "3ab089a0-49c5-46fd-b70a-4c75b869427b")
 		(at 192.6855 122.335)
@@ -14678,7 +14678,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3aea7d53-fdf1-4e96-a2c8-331e04e239ef")
 		(at 130.0125 108.725)
@@ -14928,7 +14928,7 @@
 			(uuid "1f944230-87a9-457f-ac65-7511ef97388f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14940,7 +14940,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3b5934c8-6e82-47da-a1b0-76e26f9c6d7a")
 		(at 100.3125 96.3)
@@ -15190,7 +15190,7 @@
 			(uuid "efab80cb-fef7-4841-9445-4335143bed5c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15202,7 +15202,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "3b5bc6ca-cb23-4405-8669-8c1151bccb49")
 		(at 174.3975 103.285)
@@ -15388,7 +15388,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3b8be992-fc0b-439f-94e1-043cb4abdd10")
 		(at 142.5625 84 90)
@@ -15639,7 +15639,7 @@
 			(uuid "2cddd649-cf06-449b-bf5a-7e558fe20982")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15651,7 +15651,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:WS2812B"
+	(footprint "ESP32indEVB:WS2812B"
 		(layer "F.Cu")
 		(uuid "3bb11c41-1848-40f2-96a4-7b6b37859fcd")
 		(at 151.1565 72.8 90)
@@ -16159,7 +16159,7 @@
 			(uuid "c0035042-b5a6-445a-b701-c7a0f65713e1")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/WS2812_RGB_LED_updated.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16171,7 +16171,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+	(footprint "ESP32indEVB:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 		(layer "F.Cu")
 		(uuid "3c33be4f-b2c1-4ef6-82d4-9e247219cea0")
 		(at 112.2945 83.94)
@@ -16337,7 +16337,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3d4220fd-2c68-46ee-9f34-642febf19758")
 		(at 135.0625 85.3 -90)
@@ -16588,7 +16588,7 @@
 			(uuid "51a06adc-2348-498f-889e-eb2a43f8369b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16600,7 +16600,7 @@
 			)
 		)
 	)
-	(footprint "Fiducial:Fiducial_1.5mm_Mask3mm"
+	(footprint "ESP32indEVB:Fiducial_1.5mm_Mask3mm"
 		(layer "F.Cu")
 		(uuid "402469a5-4a64-46e3-80d7-0ede02f3525c")
 		(at 108.8125 131.9)
@@ -16776,7 +16776,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "scheda di sviluppo industriale:WS2812B"
+	(footprint "ESP32indEVB:WS2812B"
 		(layer "F.Cu")
 		(uuid "40340253-ef05-4151-b2fc-7455f0533d25")
 		(at 160.0125 86.45 90)
@@ -17284,7 +17284,7 @@
 			(uuid "8d959b12-1a65-4268-bce0-8577d48db293")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/WS2812_RGB_LED_updated.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17296,7 +17296,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "4071f3fa-5ba6-4033-88d0-a4184017e50b")
 		(at 168.0625 114.5)
@@ -17546,7 +17546,7 @@
 			(uuid "dcebdd12-e828-41d4-b6b7-c7f1d32adf02")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17558,7 +17558,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "40b9bdb0-5231-49a6-8c14-6d0b8d547e27")
 		(at 104.8125 60.35)
@@ -17821,7 +17821,7 @@
 			(uuid "574c5099-b77e-40bc-84cc-159b1d98d6b5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17833,7 +17833,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "40c0b8bf-1eb5-4c97-898c-3288754d925c")
 		(at 146.6625 113.2)
@@ -18100,7 +18100,7 @@
 			(dnp no)
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18112,7 +18112,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "40e1da0c-96ed-4556-9ca6-142dc67f4f5d")
 		(at 167.9625 111.9)
@@ -18362,7 +18362,7 @@
 			(uuid "c988b451-d27e-4339-bfc2-dd633ddb3012")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18374,7 +18374,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "411d4fdc-f19c-449e-b493-a2a499906c6b")
 		(at 141.1625 73.2 -90)
@@ -18625,7 +18625,7 @@
 			(uuid "b4d716a1-d83f-4c78-8d1f-c22ace6a79c8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18637,7 +18637,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "45750e52-6593-4e7b-8df1-602fb3dd8939")
 		(at 182.2715 107.984)
@@ -18823,7 +18823,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "460d7b82-4397-4a6c-87e5-91c2f0b922b9")
 		(at 136.9325 48.04 90)
@@ -19073,7 +19073,7 @@
 			(uuid "0e534ff5-9bdb-406b-8493-7bb61a965814")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19085,7 +19085,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "48af254a-5ce4-4129-96f9-fecc983140c1")
 		(at 174.3975 105.698)
@@ -19271,7 +19271,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "49fea9e2-0828-45d8-9ff2-9f1c16a45438")
 		(at 115.4125 130.45 -90)
@@ -19521,7 +19521,7 @@
 			(uuid "8b7c89a0-40ac-4d21-b1e5-530a33d6fb1c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19533,7 +19533,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:ACT45B1012PTL003"
+	(footprint "ESP32indEVB:ACT45B1012PTL003"
 		(layer "F.Cu")
 		(uuid "4b1ab4d9-22ef-4ae5-b039-665ef7bf13af")
 		(at 125.7875 54.85 180)
@@ -19864,7 +19864,7 @@
 			(uuid "8d884883-bce8-4bd5-88a3-8ab298aff364")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\ACT45B-101-2P-TL003.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/ACT45B-101-2P-TL003.stp"
 			(offset
 				(xyz -0.02999999888 -0.1800000044 -2.999999955)
 			)
@@ -19876,7 +19876,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
+	(footprint "ESP32indEVB:PinSocket_1x05_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "4b5c7ff0-cc63-479e-b027-7d8e51724244")
 		(at 99.7625 83)
@@ -20224,7 +20224,7 @@
 			(uuid "008113c2-5b0e-4983-919a-08c87bab8e4e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x05_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/PinSocket_1x05_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20236,7 +20236,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "4ba3b75a-d7f6-4113-97c9-ae605027f078")
 		(at 192.9395 103.158)
@@ -20422,7 +20422,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "4db85a0e-ffe9-45e1-9096-f5db59413b01")
 		(at 174.3975 107.984)
@@ -20608,7 +20608,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-523"
+	(footprint "ESP32indEVB:SOT-523"
 		(layer "F.Cu")
 		(uuid "4dc1f4eb-efa7-4318-a304-8a9c3afe5c64")
 		(at 145.1625 74.4 90)
@@ -20903,7 +20903,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "4f7b5dd3-b277-44ac-8318-29423e376c52")
 		(at 140.6625 100.95 90)
@@ -21153,7 +21153,7 @@
 			(uuid "49ba7ff5-e1d7-4d13-a27c-7175b2cf0303")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21165,7 +21165,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "4fb0ae78-1fbf-42f3-9863-e9721dbbb3d6")
 		(at 188.3675 113.699)
@@ -21351,7 +21351,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "501dac8c-a4dc-41b8-bb05-c20daef4c4a7")
 		(at 190.6535 107.984)
@@ -21537,7 +21537,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "scheda di sviluppo industriale:FL4000157Z"
+	(footprint "ESP32indEVB:FL4000157Z"
 		(layer "F.Cu")
 		(uuid "50c0b307-03dc-4d3a-b29a-33756cdbe6cf")
 		(at 121.3625 86.1 180)
@@ -21877,7 +21877,7 @@
 			(uuid "541e472b-b1cf-447a-9eda-4599693c05ee")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\FL4000157Z.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/FL4000157Z.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21889,7 +21889,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "5105c4a5-a0e0-4868-acc8-80bdd9bfb839")
 		(at 178.0805 117.382)
@@ -22075,7 +22075,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "5118c35e-9e88-4c18-8663-766cb6a9b6a2")
 		(at 117.9625 131.2125 90)
@@ -22325,7 +22325,7 @@
 			(uuid "7616eab9-dee7-4b2a-89e5-ac29d6032dc8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22337,7 +22337,7 @@
 			)
 		)
 	)
-	(footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+	(footprint "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "52f91001-3bf5-4729-a19d-fa0c84affbb7")
 		(at 168.7625 61.9)
@@ -22697,7 +22697,7 @@
 			(uuid "e1f1354c-8821-4f44-91e6-99f4a66e5de1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SO-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22709,7 +22709,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "539f264e-efc8-4afd-918e-6c71f92262e9")
 		(at 178.0805 119.668)
@@ -22895,7 +22895,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "scheda di sviluppo industriale:SOD-323"
+	(footprint "ESP32indEVB:SOD-323"
 		(layer "F.Cu")
 		(uuid "53c63d45-f8f2-49b3-8af8-0329843298fe")
 		(at 104.8625 62.9)
@@ -23301,7 +23301,7 @@
 			(uuid "15c53be3-588c-40df-a00a-5fba948c822a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23313,7 +23313,7 @@
 			)
 		)
 	)
-	(footprint "Inductor_SMD:L_0603_1608Metric"
+	(footprint "ESP32indEVB:L_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "53ff8147-7ce7-476d-94ac-521deedc2f26")
 		(at 121.3115 100.872 -90)
@@ -23578,7 +23578,7 @@
 			(uuid "1eb37c5c-2eaf-42d9-9102-4b6a24ebc83b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/L_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23590,7 +23590,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:SMA"
+	(footprint "ESP32indEVB:SMA"
 		(layer "F.Cu")
 		(uuid "54163a5b-4355-4ef7-ac68-b82bc28684a1")
 		(at 144.6625 107.9 -90)
@@ -24017,7 +24017,7 @@
 			(uuid "6ca26390-536a-4303-b825-be11f85ef2be")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/CDBA340-HF.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/CDBA340-HF.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24029,7 +24029,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:EVQPE104K"
+	(footprint "ESP32indEVB:EVQPE104K"
 		(layer "F.Cu")
 		(uuid "55fcfdf9-799e-49e7-aceb-754afb46d49a")
 		(at 156.7625 95.5)
@@ -24396,7 +24396,7 @@
 			(uuid "327664f8-b431-44ed-b8ea-083ee17613e6")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/EVQ-PE104K_PNF04M_5PN04K.STEP"
+		(model "${KIPRJMOD}/lib/3dmodels/EVQ-PE104K_PNF04M_5PN04K.STEP"
 			(offset
 				(xyz 0 -2 0)
 			)
@@ -24408,7 +24408,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "5650f56e-556e-4748-b133-5174e83e3b56")
 		(at 116.7625 63.6 180)
@@ -24658,7 +24658,7 @@
 			(uuid "fed7a4bb-53ca-4513-bdba-1069226be42c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24670,7 +24670,7 @@
 			)
 		)
 	)
-	(footprint "Potentiometer_SMD:Potentiometer_Bourns_3314G_Vertical"
+	(footprint "ESP32indEVB:Potentiometer_Bourns_3314G_Vertical"
 		(layer "F.Cu")
 		(uuid "56b8196c-8a4c-4e24-bdcd-856b25d3b323")
 		(at 182.323 57.122 90)
@@ -25003,7 +25003,7 @@
 			(uuid "204e0d54-27bb-4951-956c-fb27e5995461")
 		)
 		(embedded_fonts no)
-		(model "${KICAD7_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3314G_Vertical.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/Potentiometer_Bourns_3314G_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25015,7 +25015,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "578bf1d2-8b16-4e9e-bb85-9aa55fafba19")
 		(at 135.1625 57.4)
@@ -25265,7 +25265,7 @@
 			(uuid "566d319b-44e5-423d-a433-479c9429a7e3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25277,7 +25277,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "5924a314-c9ef-4959-8926-0ba4a79fae62")
 		(at 178.0805 124.875)
@@ -25463,7 +25463,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "5a693151-c92d-4585-b6b2-bbc68abe3d35")
 		(at 104.9625 49.4)
@@ -25713,7 +25713,7 @@
 			(uuid "89eecd80-3eec-4bbe-92ef-599bca6d88c5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25725,7 +25725,7 @@
 			)
 		)
 	)
-	(footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+	(footprint "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "5bcc6164-12fd-40d4-abd7-51775aeb582c")
 		(at 183.1625 122.208)
@@ -26175,7 +26175,7 @@
 			(uuid "cc8b9e91-d4a7-40c3-be51-73c22d2f86e9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SO-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26187,7 +26187,7 @@
 			)
 		)
 	)
-	(footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm"
+	(footprint "ESP32indEVB:TSSOP-16_4.4x5mm_P0.65mm"
 		(layer "F.Cu")
 		(uuid "5d0b735b-ecbf-47b0-bf53-869c37b815a8")
 		(at 128.9 112.925)
@@ -26695,7 +26695,7 @@
 			(uuid "c7cd0146-fde2-43bb-91d8-e42ee14cb62d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16_4.4x5mm_P0.65mm.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/TSSOP-16_4.4x5mm_P0.65mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26707,7 +26707,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "5d5b9508-2b71-44c2-bc9a-1000398b61cc")
 		(at 190.3995 122.335)
@@ -26893,7 +26893,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "5ebc5763-cd36-4bdf-8034-5cc0f48c0116")
 		(at 138.4625 72.5 180)
@@ -27143,7 +27143,7 @@
 			(uuid "f3be449e-777d-4053-875d-9eda41c54521")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27155,7 +27155,7 @@
 			)
 		)
 	)
-	(footprint "Fiducial:Fiducial_1.5mm_Mask3mm"
+	(footprint "ESP32indEVB:Fiducial_1.5mm_Mask3mm"
 		(layer "F.Cu")
 		(uuid "5f2944eb-108b-4747-a8d0-359642a4cdac")
 		(at 187.9625 129.95)
@@ -27331,7 +27331,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "605c37e5-8f7a-4fd3-978b-6165907ddb40")
 		(at 149.5625 61.8)
@@ -27581,7 +27581,7 @@
 			(uuid "b48c3bc5-59bc-4db1-8c6b-b57da07c0258")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27593,7 +27593,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "615ebb3a-a651-4ba4-b946-681f579d8ad0")
 		(at 179.0965 112.81)
@@ -27779,7 +27779,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-3"
+	(footprint "ESP32indEVB:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "61d93a03-e794-4990-bdf9-f09ecc577f9f")
 		(at 174.9625 93.7 90)
@@ -28071,7 +28071,7 @@
 			(uuid "dea46efb-f22c-4e49-b989-1f15467085b5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SOT-23-3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28083,7 +28083,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "6314240c-08e0-400c-b4c8-04b524437af6")
 		(at 135.1125 111.625)
@@ -28333,7 +28333,7 @@
 			(uuid "21b84a6a-c148-465f-b74d-526ff10a54b2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28345,7 +28345,7 @@
 			)
 		)
 	)
-	(footprint "Relay_THT:Relay_SPDT_Finder_34.51_Vertical"
+	(footprint "ESP32indEVB:Relay_SPDT_Finder_34.51_Vertical"
 		(layer "F.Cu")
 		(uuid "64746045-b445-44f4-8ae3-ec25588eed43")
 		(at 179.827 90.43 90)
@@ -28689,7 +28689,7 @@
 			(uuid "80683c00-3ce9-4cfe-861a-b861b551d0da")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_34.51_Vertical.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/Relay_SPDT_Finder_34.51_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28701,7 +28701,7 @@
 			)
 		)
 	)
-	(footprint "SamacSys_Parts:DIOM5436X244N"
+	(footprint "ESP32indEVB:DIOM5436X244N"
 		(layer "F.Cu")
 		(uuid "64ad41a5-aaf8-4003-ae7a-554540d9632e")
 		(at 107.4875 91.9924)
@@ -29035,7 +29035,7 @@
 			(uuid "e8a9432d-3c55-4a7a-a0b6-7702bf35f659")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\info\\Documents\\KiCad\\9.0\\SamacSys_Parts.3dshapes\\SMBJ3V3-E3_5B.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/SMBJ3V3-E3_5B.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29047,7 +29047,7 @@
 			)
 		)
 	)
-	(footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+	(footprint "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "66998b60-0a35-4080-a077-38cc08b0bbf1")
 		(at 142.0675 67.025 90)
@@ -29460,7 +29460,7 @@
 			(uuid "1d999e22-58d5-4f60-b898-d748228c2f37")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SO-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29472,7 +29472,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "6920d5d8-b2c8-4003-93e2-743ffd5e2aa7")
 		(at 182.9065 117.255)
@@ -29658,7 +29658,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "69ceb903-a386-4aaa-831f-03d52484cc8e")
 		(at 190.3995 119.922)
@@ -29844,7 +29844,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:UJ31CHG2SMTTR"
+	(footprint "ESP32indEVB:UJ31CHG2SMTTR"
 		(layer "F.Cu")
 		(uuid "69f0d3a2-a454-4ea2-a27d-bc18c0dcb161")
 		(at 142.9565 130.59)
@@ -30576,7 +30576,7 @@
 			(uuid "a63b56bf-83af-48c8-b853-c659e6071f01")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\UJ31-CH-G2-SMT-TR.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/UJ31-CH-G2-SMT-TR.stp"
 			(offset
 				(xyz 0 -1.129999978 2.499999962)
 			)
@@ -30588,7 +30588,7 @@
 			)
 		)
 	)
-	(footprint "Library loader:2828372"
+	(footprint "ESP32indEVB:2828372"
 		(layer "F.Cu")
 		(uuid "6a37c090-8ebe-4401-a04a-12823d4d8fda")
 		(at 160.4735 129.955)
@@ -31076,7 +31076,7 @@
 			(uuid "c99246a5-1282-4c97-b7fb-d9552193c67a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/282837-2.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/282837-2.stp"
 			(offset
 				(xyz 2.5 0 5)
 			)
@@ -31088,7 +31088,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "6abce5ff-5fbf-4c38-a14f-85e1053b8a27")
 		(at 188.3675 110.397)
@@ -31274,7 +31274,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "6b5a6731-5bb2-44fb-989b-797079545e4b")
 		(at 179.0965 103.285)
@@ -31460,7 +31460,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "6e899bff-bfcb-40f8-a91b-5e454ce35ba6")
 		(at 173.6355 124.875)
@@ -31646,7 +31646,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "6f6d4e83-73ee-4692-9697-932678efd651")
 		(at 144.3625 84 90)
@@ -31910,7 +31910,7 @@
 			(uuid "dc6d255a-f2c3-40e5-b80e-9f369a0ca5a8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31922,7 +31922,7 @@
 			)
 		)
 	)
-	(footprint "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "6f796caf-d78a-4533-bf1c-8ba0ac3db984")
 		(at 118.1365 94.903 180)
@@ -32187,7 +32187,7 @@
 			(uuid "4a876e9b-d94a-44c9-815e-9f2273a26828")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/L_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32199,7 +32199,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "6fb20e19-0051-4b4b-932d-1e10d2a866e9")
 		(at 124.6625 85.9 -90)
@@ -32449,7 +32449,7 @@
 			(uuid "c1e6931d-3387-471f-89ce-d76d68e7e640")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32461,7 +32461,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "70a102a9-4710-44d1-abbc-3853312787a3")
 		(at 151.2625 131.1 -90)
@@ -32711,7 +32711,7 @@
 			(uuid "eeae0559-652f-4082-853d-32bf81ce74c6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32723,7 +32723,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "70b8374f-b391-4b4d-a5d1-8387285967c8")
 		(at 190.6535 100.745)
@@ -32909,7 +32909,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "70dea5d5-facd-4567-b4f2-a4fa7f569b5c")
 		(at 144.8625 121.3)
@@ -33159,7 +33159,7 @@
 			(uuid "c3c7854c-f446-4f8d-a88a-477416ee7a04")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33171,7 +33171,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "720fb5fe-638f-4b5a-b45f-410137f8e104")
 		(at 166.6505 93.379 180)
@@ -33443,7 +33443,7 @@
 			(uuid "31dd1d44-ca1a-4dc8-bd61-5656a6eb6910")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/LED_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33455,7 +33455,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:WS2812B"
+	(footprint "ESP32indEVB:WS2812B"
 		(layer "F.Cu")
 		(uuid "72564dbc-bb49-44b6-9068-5a1597692611")
 		(at 169.4625 79.625 90)
@@ -33963,7 +33963,7 @@
 			(uuid "a96fdc2f-ccf9-4065-9f74-2765aaa1d9ca")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/WS2812_RGB_LED_updated.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33975,7 +33975,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:EVQPE104K"
+	(footprint "ESP32indEVB:EVQPE104K"
 		(layer "F.Cu")
 		(uuid "7351b68f-42de-4733-af90-e47e4a95b1d5")
 		(at 146.8625 100.5)
@@ -34342,7 +34342,7 @@
 			(uuid "05e59621-3fd9-4cba-abc5-5e0522410ec7")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/EVQ-PE104K_PNF04M_5PN04K.STEP"
+		(model "${KIPRJMOD}/lib/3dmodels/EVQ-PE104K_PNF04M_5PN04K.STEP"
 			(offset
 				(xyz 0 -2 0)
 			)
@@ -34354,7 +34354,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "742cc9dc-7808-4dba-a089-ba4be3bff7a8")
 		(at 162.9625 60.6)
@@ -34604,7 +34604,7 @@
 			(uuid "70ff2095-5213-41c5-a35b-0ab3e5d4629a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34616,7 +34616,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "74e73160-49d8-4c2a-98a6-3c2ec94cea22")
 		(at 118.3625 86.2 90)
@@ -34866,7 +34866,7 @@
 			(uuid "0f5f4f3b-e855-4c8a-95e0-6965b5742907")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34878,7 +34878,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+	(footprint "ESP32indEVB:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 		(layer "F.Cu")
 		(uuid "753a55fd-1f58-41a7-8e5a-39777b64ab86")
 		(at 112.2945 81.4)
@@ -35032,7 +35032,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT"
+	(footprint "ESP32indEVB:Converter_DCDC_TRACO_TSR-1_THT"
 		(layer "F.Cu")
 		(uuid "75afbb47-d64b-4142-9820-c932b500e975")
 		(at 161.13 121.7825)
@@ -35406,7 +35406,7 @@
 			(uuid "3ee0cd9e-3b86-46fe-8753-8105195f08b3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TSR-1_THT.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/Converter_DCDC_TRACO_TSR-1_THT.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35418,7 +35418,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "75bca166-6fd8-4e76-9dc0-ab453f0748f2")
 		(at 139.1625 76.7 90)
@@ -35669,7 +35669,7 @@
 			(uuid "7aff9d66-702f-4b41-8c9f-46ed698816a3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35681,7 +35681,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "770ae238-4128-42f2-a6f1-fdbade747eb8")
 		(at 133.4725 103.9)
@@ -35945,7 +35945,7 @@
 			(uuid "ebc4212c-6bc2-4dab-9492-5d1598857558")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35957,7 +35957,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+	(footprint "ESP32indEVB:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 		(layer "F.Cu")
 		(uuid "78927303-1534-462d-b41d-7bce3df70634")
 		(at 124.2625 80.7)
@@ -36134,7 +36134,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "7d1ea1c0-cbb1-419f-b680-9f60f26fd8a3")
 		(at 179.0965 100.745)
@@ -36320,7 +36320,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "7dd65674-02e2-45b0-9d92-d2b3b7ee1883")
 		(at 183.2875 98.205)
@@ -36506,7 +36506,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "7e8b7859-87b4-4670-9e94-a4a31f6cdb56")
 		(at 174.3975 100.745)
@@ -36692,7 +36692,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7ec6b5f9-3279-44ca-8f84-a4a297d0fe9e")
 		(at 123.0133 100.999 -90)
@@ -36942,7 +36942,7 @@
 			(uuid "c02a61c2-9859-463c-8527-863eb0d62f8e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36954,7 +36954,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "7fa2ffa3-2ad5-4a0d-99ef-f24b79c09a28")
 		(at 188.1135 122.335)
@@ -37140,7 +37140,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+	(footprint "ESP32indEVB:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 		(layer "F.Cu")
 		(uuid "816d243c-4b94-4d82-9b34-d8859a46a379")
 		(at 121.3115 80.806)
@@ -37305,7 +37305,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-3"
+	(footprint "ESP32indEVB:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "81f1ac82-216e-4124-9aa6-ad8adccd5cf1")
 		(at 166.3625 49.8 180)
@@ -37686,7 +37686,7 @@
 			(uuid "34413c37-7524-48bf-b54c-a21926528cd3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SOT-23-3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37698,7 +37698,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "82356dfe-6112-4f6d-b773-d6b75c09c837")
 		(at 190.6535 113.699)
@@ -37884,7 +37884,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "scheda di sviluppo industriale:1206L05015YR"
+	(footprint "ESP32indEVB:1206L05015YR"
 		(layer "F.Cu")
 		(uuid "8280b988-434a-4274-9f90-d8ef8b473f0a")
 		(at 111.8625 75.525 90)
@@ -38159,7 +38159,7 @@
 			(uuid "27129e35-80c3-49b6-9cdc-7643cc84c9e4")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\1206L050_15YR.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/1206L050_15YR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38171,7 +38171,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "83ea42bd-66d7-4af4-bae2-7cd039b90fb8")
 		(at 113.6125 53.5 -90)
@@ -38421,7 +38421,7 @@
 			(uuid "83d83e74-faee-4a57-a997-1dcaa502085a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38433,7 +38433,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:SOD-323"
+	(footprint "ESP32indEVB:SOD-323"
 		(layer "F.Cu")
 		(uuid "8467d84a-ad85-44cc-96a1-257082068c3e")
 		(at 104.8625 47.3)
@@ -38839,7 +38839,7 @@
 			(uuid "7ac0f34d-0cb4-4152-ab79-9ab2f3289125")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38851,7 +38851,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8489819d-58af-42b4-9cfb-93c988f8b64c")
 		(at 105.2625 83.4)
@@ -39113,7 +39113,7 @@
 			(uuid "b3f647cf-17ef-4ac8-9959-fbbee21bc3b8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39125,7 +39125,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "84cb5f5a-fe81-464e-bb1b-95be82e6384f")
 		(at 192.6625 117.255)
@@ -39311,7 +39311,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "84f58e79-9d0c-4968-9fe1-6b418950de38")
 		(at 125.3755 70.1888 90)
@@ -39574,7 +39574,7 @@
 			(uuid "6781cbe4-98fa-47c1-bc2a-6093830a8458")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39586,7 +39586,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "885a71d0-4cf7-4726-9fe5-cbac08565901")
 		(at 175.9215 124.875)
@@ -39772,7 +39772,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "892662c9-4868-49b6-9ca5-c474027be50f")
 		(at 145.3625 77 180)
@@ -40022,7 +40022,7 @@
 			(uuid "d810387c-1002-4633-9c2f-5d6c789ff2ed")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40034,7 +40034,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8970fd9c-b60f-4d82-89fa-9cabfd0ff60d")
 		(at 125.3625 73.6 90)
@@ -40285,7 +40285,7 @@
 			(uuid "c07909b2-9af9-43c9-86a2-c068e7463e95")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40297,7 +40297,7 @@
 			)
 		)
 	)
-	(footprint "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8ab8e031-645f-497b-bf50-c340f92ef388")
 		(at 166.7625 53.6)
@@ -40562,7 +40562,7 @@
 			(uuid "f6d50adf-9e0a-4b91-8e1f-5b2edf9824a8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/L_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40574,7 +40574,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8b1ec8e5-1442-4d1a-9efd-24ea1bf67e9e")
 		(at 158.6495 98.713 180)
@@ -40837,7 +40837,7 @@
 			(uuid "2a208d59-21cf-47ed-94fa-f0cb7f0c9d20")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40849,7 +40849,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+	(footprint "ESP32indEVB:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 		(layer "F.Cu")
 		(uuid "8b1f359c-134b-41cf-adb2-86f2c62e2129")
 		(at 174.8625 88.8)
@@ -41026,7 +41026,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8ba4ef99-8b4d-4a2c-a437-451da320bf86")
 		(at 130.2015 102.523 90)
@@ -41276,7 +41276,7 @@
 			(uuid "b4b41f4f-6875-4313-a586-e688304bd6b0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41288,7 +41288,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "8c2213b7-753c-4ff7-9bf8-c55e0ca47808")
 		(at 184.6845 107.984)
@@ -41474,7 +41474,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8e5e3eac-8007-4a73-b9b6-18c074c5d202")
 		(at 116.6625 86.2 90)
@@ -41738,7 +41738,7 @@
 			(uuid "648c9877-aecc-4a43-9e45-28807c4b2363")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41750,7 +41750,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8fafd791-6759-4beb-9910-0b7f5f230e4e")
 		(at 142.5625 114.9 -90)
@@ -42000,7 +42000,7 @@
 			(uuid "4d97540b-facf-4471-86e3-5a7c19abf6df")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42012,7 +42012,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "8ff28811-2f1a-4423-972a-c93f33d24155")
 		(at 190.6535 110.397)
@@ -42198,7 +42198,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "91689343-b8ad-43f9-9a19-24d05e819560")
 		(at 190.6535 105.571)
@@ -42384,7 +42384,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "scheda di sviluppo industriale:WS2812B"
+	(footprint "ESP32indEVB:WS2812B"
 		(layer "F.Cu")
 		(uuid "918d15ad-83cb-45e1-a1b6-9aacbcfd3ffb")
 		(at 151.1565 79.625 90)
@@ -42892,7 +42892,7 @@
 			(uuid "d54e3df9-4687-4118-99e3-dd65079a1b46")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/WS2812_RGB_LED_updated.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42904,7 +42904,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "91b45d78-11ff-4c4a-adf5-7b12b854dfcf")
 		(at 188.1135 124.875)
@@ -43090,7 +43090,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "9243dca6-f6a2-4aee-848e-e42164f4e12e")
 		(at 163.0625 62.5 180)
@@ -43340,7 +43340,7 @@
 			(uuid "5178641f-9a54-4436-9da0-9e21d8816f84")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43352,7 +43352,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:SOT23-6"
+	(footprint "ESP32indEVB:SOT23-6"
 		(layer "F.Cu")
 		(uuid "936b0bdc-d43a-4b34-8777-4cc8a4081e1e")
 		(at 133.925 124.75 90)
@@ -43706,7 +43706,7 @@
 			(uuid "449da4bc-cca2-48c1-a880-b7cd3a6a885f")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\SMS3.3.TCT.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/SMS3.3.TCT.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43718,7 +43718,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "9456be48-6e9f-4666-a3fe-fd379858ce48")
 		(at 132.4625 85.2 90)
@@ -43982,7 +43982,7 @@
 			(uuid "1e7cff48-e77b-4249-bbf2-af8e0c8911b9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43994,7 +43994,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:WS2812B"
+	(footprint "ESP32indEVB:WS2812B"
 		(layer "F.Cu")
 		(uuid "94c1712f-ea8e-4a34-9778-0ff2d826c291")
 		(at 169.4625 72.8 90)
@@ -44501,7 +44501,7 @@
 			(uuid "705aef53-24f1-45c7-889d-bff556d93830")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/WS2812_RGB_LED_updated.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44513,7 +44513,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "95c303c5-03b7-4d63-977d-65c34eb6fe42")
 		(at 185.4465 117.255)
@@ -44699,7 +44699,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "96e5575b-d4fb-4a7c-8800-a0dbe19855b4")
 		(at 171.8625 93.9 -90)
@@ -44949,7 +44949,7 @@
 			(uuid "a5a6d09a-c222-4d6c-afce-70caa8bae76b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44961,7 +44961,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "99d5b34c-ba80-4dc0-903d-336e0d4eba41")
 		(at 145.8625 70.9 -90)
@@ -45211,7 +45211,7 @@
 			(uuid "d1f41ab4-b8df-48ec-94d1-7abdde9d8fcf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45223,7 +45223,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "9a0216fc-7648-4c43-a734-015f194ce3f3")
 		(at 179.0965 115.096)
@@ -45409,7 +45409,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TerminalBlock_bornier-3_P5.08mm"
+	(footprint "ESP32indEVB:TerminalBlock_bornier-3_P5.08mm"
 		(layer "F.Cu")
 		(uuid "9b2c1df6-914e-417c-bff3-b5f71b316d61")
 		(at 189.575 74.456 -90)
@@ -45725,7 +45725,7 @@
 			(uuid "04c3c0ce-cee9-4ff6-90b7-67c0ca78c081")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/282837-3.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/282837-3.stp"
 			(offset
 				(xyz 0 4 2.5)
 			)
@@ -45737,7 +45737,7 @@
 			)
 		)
 	)
-	(footprint "Inductor_SMD:L_0603_1608Metric"
+	(footprint "ESP32indEVB:L_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "9cdd2cad-ecbc-4546-b3a8-47c2c7f9070e")
 		(at 118.5625 104.3 -90)
@@ -46006,7 +46006,7 @@
 			(dnp no)
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/L_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46018,7 +46018,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "9cfe2217-03b2-40ec-813a-cdecd0aaa8aa")
 		(at 173.6355 117.382)
@@ -46204,7 +46204,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "9fc24a8f-f42c-4190-b3b4-78bf3089ddec")
 		(at 177.0625 62)
@@ -46454,7 +46454,7 @@
 			(uuid "64642f26-e84a-469b-bf9c-988cb751da67")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46466,7 +46466,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:SOD-323"
+	(footprint "ESP32indEVB:SOD-323"
 		(layer "F.Cu")
 		(uuid "a05466c4-663c-4d89-bb9e-c3aaf3da52e5")
 		(at 105.2625 77.8)
@@ -46872,7 +46872,7 @@
 			(uuid "91ee25eb-f0fc-432a-bd5e-9f7b1439a2c0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46884,7 +46884,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "a08a13d0-d858-4b28-aa88-5d5ba3d77776")
 		(at 105.3625 86.2)
@@ -47134,7 +47134,7 @@
 			(uuid "3837cadc-6aa7-4c16-a1ca-08323a9165ee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47146,7 +47146,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "a1b55183-ea9b-4f7a-bddd-33b7d78eea95")
 		(at 118.0625 91.3 90)
@@ -47396,7 +47396,7 @@
 			(uuid "ad203d8a-d2bb-460b-9458-3d579167cf79")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47408,7 +47408,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:SMA"
+	(footprint "ESP32indEVB:SMA"
 		(layer "F.Cu")
 		(uuid "a290b98e-9a2d-43c8-962c-a914f9a7a628")
 		(at 149.5625 107.9 -90)
@@ -47835,7 +47835,7 @@
 			(uuid "b28604bc-0545-41e7-b17a-63c2c040cca3")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/CDBA340-HF.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/CDBA340-HF.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47847,7 +47847,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "a2c83621-b483-4c54-af4b-7d86c8965685")
 		(at 122.9625 72.3 90)
@@ -48098,7 +48098,7 @@
 			(uuid "31399362-df7b-401a-b3c9-de55e38fed77")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48110,7 +48110,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "a2ff32fc-6df6-4da9-b313-6a0cf619c50f")
 		(at 116.7625 61.3 180)
@@ -48360,7 +48360,7 @@
 			(uuid "7115194e-2e34-41b8-bc2e-f479618fbabc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48372,7 +48372,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "a583e2d1-6e11-419e-99de-23f848f2327b")
 		(at 135.1545 117.89)
@@ -48558,7 +48558,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "aa4bc0a4-a5b8-4dde-91e9-36b3a50a5b81")
 		(at 104.9125 65.4)
@@ -48808,7 +48808,7 @@
 			(uuid "26dd03ee-eec9-4bad-b852-ce1484a6c0d1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48820,7 +48820,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "aa860299-fb19-4d09-9743-06bb81a00f32")
 		(at 175.9215 117.382)
@@ -49006,7 +49006,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "aa971d72-dd61-42c7-a60b-c07d6f3c5054")
 		(at 140.3625 88.7 180)
@@ -49270,7 +49270,7 @@
 			(uuid "d390b74e-7b13-49f4-8949-3740d67fb182")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49282,7 +49282,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "aa9c549c-d52f-4742-989f-a2e340e8380d")
 		(at 127.0625 73.6 90)
@@ -49533,7 +49533,7 @@
 			(uuid "733a1fc1-c7b7-456e-ab83-b77412e426a7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49545,7 +49545,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "adb4788c-aa63-47de-838f-9d5b331b8642")
 		(at 179.0965 107.984)
@@ -49731,7 +49731,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "af646cda-c3bc-4046-9608-044632f485b3")
 		(at 121.2125 54.6 -90)
@@ -49981,7 +49981,7 @@
 			(uuid "9369ab86-7479-48cf-a754-312d66a45430")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49993,7 +49993,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "b102360f-2965-4797-85a6-107a566380d7")
 		(at 119.2795 113.064)
@@ -50265,7 +50265,7 @@
 			(uuid "249f9d42-8290-4116-805e-f3fcc4e38fe0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/LED_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50277,7 +50277,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "b1126620-b799-4485-aa11-4b3c42abdb2e")
 		(at 176.8105 105.698)
@@ -50463,7 +50463,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "scheda di sviluppo industriale:SOD-323"
+	(footprint "ESP32indEVB:SOD-323"
 		(layer "F.Cu")
 		(uuid "b156bf08-e9b9-41cc-b35d-32c977c66fe6")
 		(at 105.7625 88.5)
@@ -50869,7 +50869,7 @@
 			(uuid "3b7715f8-1a41-4c0e-adb4-74db0f546e4e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50881,7 +50881,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "b274ec5d-178a-40f8-9549-11fcc35a8f97")
 		(at 121.2625 72.3 90)
@@ -51132,7 +51132,7 @@
 			(uuid "f0aafa82-be32-4b4d-b2f0-3948f3c836ec")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51144,7 +51144,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "ESP32indEVB:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "b2843739-fc94-4713-83c7-023a0f65ecf9")
 		(at 117.3745 77.123 90)
@@ -51494,7 +51494,7 @@
 			(uuid "204566ac-d272-4d25-8fc9-43e49312a8a8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/lib/3dmodels/PinSocket_1x04_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51506,7 +51506,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "b355b8ce-48b2-4115-8ec1-2208affa1b41")
 		(at 188.3675 107.984)
@@ -51692,7 +51692,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "b404c6c0-f98c-47f8-88f1-6a3a1a0beb00")
 		(at 118.6625 72.3 -90)
@@ -51942,7 +51942,7 @@
 			(uuid "f9d06e67-7743-4fc7-8f34-e8d85dd79fc9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51954,7 +51954,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "b5d78437-f025-42f7-99a2-3883bd6d29a0")
 		(at 129.9425 106.655)
@@ -52204,7 +52204,7 @@
 			(uuid "1cd160db-2db4-4095-ae10-4d510d629eee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52216,7 +52216,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "b6e7d9f9-e730-4b5e-8d95-89254dfbeb67")
 		(at 139.4625 87.1 180)
@@ -52480,7 +52480,7 @@
 			(uuid "e672cfc9-24e1-46ae-b156-c8194904b300")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52492,7 +52492,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "b6eeda7c-b3d3-4a0b-b210-aa18f11add44")
 		(at 176.8105 100.745)
@@ -52678,7 +52678,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3"
+	(footprint "ESP32indEVB:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "b8ab3a00-d12f-4936-ad13-23d767d376c9")
 		(at 190.876 47.463)
@@ -52850,7 +52850,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
+	(footprint "ESP32indEVB:PinSocket_1x05_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "b968b2cb-0446-4e0f-b096-e4f544b0158a")
 		(at 99.7625 47.98)
@@ -53367,7 +53367,7 @@
 			(uuid "9a5934de-ca0e-4597-a64c-34a93f6bf735")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x05_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/PinSocket_1x05_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -53379,7 +53379,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:WS2812B"
+	(footprint "ESP32indEVB:WS2812B"
 		(layer "F.Cu")
 		(uuid "b9b7857d-d8eb-4679-a7c3-029b247680c5")
 		(at 160.0125 79.625 90)
@@ -53887,7 +53887,7 @@
 			(uuid "af4cbb92-71a9-47cd-828d-d76e9cd7ceb4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/WS2812_RGB_LED_updated.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -53899,7 +53899,7 @@
 			)
 		)
 	)
-	(footprint "Fiducial:Fiducial_1.5mm_Mask3mm"
+	(footprint "ESP32indEVB:Fiducial_1.5mm_Mask3mm"
 		(layer "F.Cu")
 		(uuid "ba9ffa6d-9370-40a5-ad1a-bd14abace262")
 		(at 110.9625 44.1)
@@ -54075,7 +54075,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "bcce28a4-118f-4c35-b590-85b661b9924e")
 		(at 150.4625 126.1 -90)
@@ -54338,7 +54338,7 @@
 			(uuid "800b3351-a9c6-415f-a51e-cd40b164ebe4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54350,7 +54350,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "c00bd31d-f73c-4b4b-8ff3-79cb70d9de89")
 		(at 130.4625 55.4 90)
@@ -54600,7 +54600,7 @@
 			(uuid "b93581a5-79ea-4509-bf1d-80b1206a209f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54612,7 +54612,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "c01eb63b-d4e0-487a-b75b-3d18536f278f")
 		(at 135.1125 114.2)
@@ -54862,7 +54862,7 @@
 			(uuid "9c1cc384-2b1d-4dcd-b78b-d3fd87614277")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54874,7 +54874,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:WS2812B"
+	(footprint "ESP32indEVB:WS2812B"
 		(layer "F.Cu")
 		(uuid "c1e6f73a-5749-4c0b-bf1d-ab669765113d")
 		(at 169.4625 86.45 90)
@@ -55381,7 +55381,7 @@
 			(uuid "2d89d7d2-defe-4819-b5b7-e5355ddfc4e8")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/WS2812_RGB_LED_updated.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -55393,7 +55393,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "c23398b2-7009-4930-ac65-783316c9276b")
 		(at 126.6455 101.507 -90)
@@ -55643,7 +55643,7 @@
 			(uuid "7bbcc139-2275-4a0e-9b20-27f0555a6639")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -55655,7 +55655,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "ESP32indEVB:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c4cafdcd-c5fa-4357-bdc8-1987696dfeca")
 		(at 121.5625 118.8 90)
@@ -55994,7 +55994,7 @@
 			(uuid "1ccc17f0-c940-4686-854c-63f4842c7260")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/M20-7820446.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/M20-7820446.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -56006,7 +56006,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:1812L010DR"
+	(footprint "ESP32indEVB:1812L010DR"
 		(layer "F.Cu")
 		(uuid "c4f086a7-11b2-4215-b02a-81bd709011e3")
 		(at 171.6 130.65 90)
@@ -56367,7 +56367,7 @@
 			(uuid "cb1b73bb-f2ba-4f8f-82e9-50e528bddac4")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\1812L150_24MR.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/1812L150_24MR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -56379,7 +56379,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "c5cc58b0-43a9-4920-8b50-b5858dbd8340")
 		(at 141.2625 121.3)
@@ -56629,7 +56629,7 @@
 			(uuid "2b35aaa6-d561-4d5c-bb1b-fbdf83f80459")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -56641,7 +56641,7 @@
 			)
 		)
 	)
-	(footprint "Package_SO:MSOP-8_3x3mm_P0.65mm"
+	(footprint "ESP32indEVB:MSOP-8_3x3mm_P0.65mm"
 		(layer "F.Cu")
 		(uuid "c8af48c1-5339-468d-90de-10acdd5ad5de")
 		(at 183.675 112.8)
@@ -57092,7 +57092,7 @@
 			(uuid "779d7ad2-6e2b-4715-af47-a03e774e6e07")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8_3x3mm_P0.65mm.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/MSOP-8_3x3mm_P0.65mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -57104,7 +57104,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "c8cba1ab-f149-4d09-928e-ae479b322740")
 		(at 138.8625 100.95 -90)
@@ -57354,7 +57354,7 @@
 			(uuid "b37e610a-70ac-4875-807c-f052e23adda9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -57366,7 +57366,7 @@
 			)
 		)
 	)
-	(footprint "SamacSys_Parts:1277ASH100MP2"
+	(footprint "ESP32indEVB:1277ASH100MP2"
 		(layer "F.Cu")
 		(uuid "c9c2952b-c6a1-45a1-8ad4-e6744eaaaef0")
 		(at 162.4595 109.635 90)
@@ -57681,7 +57681,7 @@
 			(uuid "2e282100-fbd3-42df-aa6e-198c32d55824")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\DFE322512F-4R7M=P2.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/DFE322512F-4R7M=P2.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -57693,7 +57693,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "c9e6031a-a29f-4d5e-9860-126edd6a9002")
 		(at 176.8105 112.81)
@@ -57879,7 +57879,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "ca3d595c-6ffe-425b-bec4-c901240919ef")
 		(at 175.9215 122.208)
@@ -58065,7 +58065,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+	(footprint "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "ca58d1aa-8abf-40c0-b629-7b31ef3b0920")
 		(at 124.1625 59.9)
@@ -58478,7 +58478,7 @@
 			(uuid "2219dc02-e308-4ad6-b6ab-36b27b8bc85f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SO-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -58490,7 +58490,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "caf2bc86-ff80-4150-941d-1b08452dd44c")
 		(at 179.0965 105.698)
@@ -58676,7 +58676,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "scheda di sviluppo industriale:WS2812B"
+	(footprint "ESP32indEVB:WS2812B"
 		(layer "F.Cu")
 		(uuid "cb9cfc99-d3db-4732-bcd4-b32c97e3a00a")
 		(at 160.3095 72.8 90)
@@ -59183,7 +59183,7 @@
 			(uuid "1cef0b88-c116-4720-bf6c-395c2d5e4ee8")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/WS2812_RGB_LED_updated.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/WS2812_RGB_LED_updated.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -59195,7 +59195,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "cc8eaf07-9e2c-4d93-9b6b-aa950958dbf0")
 		(at 130.2625 80.1)
@@ -59460,7 +59460,7 @@
 			(uuid "2146b47a-9d11-4d6f-8977-1a4607d796f7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -59472,7 +59472,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "cd2c87fd-4008-4324-8d92-10e09cbb3570")
 		(at 140.8625 76.7 -90)
@@ -59736,7 +59736,7 @@
 			(uuid "3b5f1149-e824-4df3-a5ce-a075efa8fec8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -59748,7 +59748,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "cd368dfd-f7a2-460a-ae4e-f200cf0110d7")
 		(at 190.3995 124.875)
@@ -59934,7 +59934,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "cf8ca1a0-4e26-415c-89fa-98475de9db2c")
 		(at 174.3975 110.397)
@@ -60120,7 +60120,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "d03c32ae-c876-41bc-950e-ab6f879c5b33")
 		(at 121.2905 104.118 -90)
@@ -60370,7 +60370,7 @@
 			(uuid "bfcba4d2-535d-40b9-b6a5-660bd6eb7d53")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -60382,7 +60382,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:SOD-323"
+	(footprint "ESP32indEVB:SOD-323"
 		(layer "F.Cu")
 		(uuid "d0c1f1e4-e462-416a-8bc3-c508d2e6e4cd")
 		(at 105.5625 95.7)
@@ -60788,7 +60788,7 @@
 			(uuid "c2eafeb4-508d-4152-a671-39ff95e9a3b7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -60800,7 +60800,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "d1e172fd-e4cb-464a-9919-538c213d8d25")
 		(at 124.3625 89.5 90)
@@ -61050,7 +61050,7 @@
 			(uuid "bd09863a-86d0-4047-bb26-da9b5c13738b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -61062,7 +61062,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "d238270f-7ec0-444c-9fbc-d49f86e42213")
 		(at 162.9675 93.379 180)
@@ -61312,7 +61312,7 @@
 			(uuid "8e75d486-b17c-4d77-880b-4d3fceee48de")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -61324,7 +61324,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "d30a3a72-9a80-4322-9f01-3f2c04743035")
 		(at 190.6535 103.158)
@@ -61510,7 +61510,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+	(footprint "ESP32indEVB:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 		(layer "F.Cu")
 		(uuid "d334affd-17ba-4416-98e3-9314a18a899e")
 		(at 112.2945 89.02)
@@ -61664,7 +61664,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "d405b382-295c-4ad9-9a86-6dfbd8aea0e3")
 		(at 135.9625 76.9 90)
@@ -61914,7 +61914,7 @@
 			(uuid "fdef8850-0f04-44fa-8478-ea43bb623b24")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -61926,7 +61926,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:DIOM5436X261N"
+	(footprint "ESP32indEVB:DIOM5436X261N"
 		(layer "F.Cu")
 		(uuid "d4ee7251-e1f9-4819-8435-37bad8857f31")
 		(at 176.1 130.6 -90)
@@ -62406,7 +62406,7 @@
 			(uuid "2d65f176-f78a-4a26-88e3-7c6d99fb4014")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\symbols\\SamacSys_Parts.3dshapes\\SMBJ5.0A.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/SMBJ5.0A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -62418,7 +62418,7 @@
 			)
 		)
 	)
-	(footprint "SamacSys_Parts:ABS07AIG"
+	(footprint "ESP32indEVB:ABS07AIG"
 		(layer "F.Cu")
 		(uuid "d632c155-17ea-4366-8636-c13f74322003")
 		(at 140.6 90.65)
@@ -62708,7 +62708,7 @@
 			(uuid "d871cae1-9a03-4c53-aecb-4ef8df85cf31")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\ABS07AIG-32.768KHZ-D-T.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/ABS07AIG-32.768KHZ-D-T.stp"
 			(offset
 				(xyz 0.01999999925 0 0)
 			)
@@ -62720,7 +62720,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "d7231167-5ff5-49ca-a980-051a6bb02ac7")
 		(at 175.9215 119.668)
@@ -62906,7 +62906,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "d9c224aa-fb72-4bcf-9fc3-de9fa5ce4e10")
 		(at 176.8105 110.397)
@@ -63092,7 +63092,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:UJ31CHG2SMTTR"
+	(footprint "ESP32indEVB:UJ31CHG2SMTTR"
 		(layer "F.Cu")
 		(uuid "da70def8-77a9-4831-a1c9-40ae5f4704e6")
 		(at 125.6625 130.59)
@@ -63824,7 +63824,7 @@
 			(uuid "5ba4f47b-0d30-468b-a116-a75bdf3bed61")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\UJ31-CH-G2-SMT-TR.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/UJ31-CH-G2-SMT-TR.stp"
 			(offset
 				(xyz 0 -1.129999978 2.499999962)
 			)
@@ -63836,7 +63836,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "dadb639f-0a91-45e8-ac4d-5603f9e53213")
 		(at 142.9625 73.2 -90)
@@ -64087,7 +64087,7 @@
 			(uuid "baf3ce8d-139b-4bb7-a337-07464d465e3e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -64099,7 +64099,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "dba1699b-9fc7-4349-8edb-0f06b77b9158")
 		(at 185.5735 98.205)
@@ -64285,7 +64285,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "dd6319ce-97d9-40dc-9a2a-401561b900a5")
 		(at 163.4625 55.3 -90)
@@ -64535,7 +64535,7 @@
 			(uuid "b1e034c5-88c4-4655-baa4-422c2b08abf4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -64547,7 +64547,7 @@
 			)
 		)
 	)
-	(footprint "SamacSys_Parts:DIOM5436X244N"
+	(footprint "ESP32indEVB:DIOM5436X244N"
 		(layer "F.Cu")
 		(uuid "de165dd3-9e80-465d-aaf0-5ac031c6a0b3")
 		(at 106.7625 71.35)
@@ -64881,7 +64881,7 @@
 			(uuid "8935025e-ead7-4c9b-b55e-1aeed4f4d48a")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\info\\Documents\\KiCad\\9.0\\SamacSys_Parts.3dshapes\\SMBJ3V3-E3_5B.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/SMBJ3V3-E3_5B.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -64893,7 +64893,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-3"
+	(footprint "ESP32indEVB:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "e1785baa-6f66-491c-9aac-bc1d749c0e33")
 		(at 116.5125 53.5125 -90)
@@ -65274,7 +65274,7 @@
 			(uuid "f9463e2a-f7b0-4cb4-8738-26c100169ca7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SOT-23-3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -65286,7 +65286,7 @@
 			)
 		)
 	)
-	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+	(footprint "ESP32indEVB:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "e184af84-586d-4fe9-9198-81b8184982ad")
 		(at 138.7625 82.3 90)
@@ -65652,7 +65652,7 @@
 			(uuid "a2da48e2-0934-4bce-94ca-2e522b12c325")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SOIC-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -65664,7 +65664,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "e3df411f-f397-4808-b64c-47a0b8f8b674")
 		(at 173.6355 122.208)
@@ -65850,7 +65850,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TerminalBlock_bornier-3_P5.08mm"
+	(footprint "ESP32indEVB:TerminalBlock_bornier-3_P5.08mm"
 		(layer "F.Cu")
 		(uuid "e4886e2f-79da-4771-b0c6-48ea733fa00b")
 		(at 147.1825 46.4)
@@ -66166,7 +66166,7 @@
 			(uuid "c379fa83-1be0-419e-9283-68969ae4847d")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/282837-3.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/282837-3.stp"
 			(offset
 				(xyz 0 4 2.5)
 			)
@@ -66178,7 +66178,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "e59f8b9d-4414-462d-ae01-d3b42493316b")
 		(at 192.9395 107.984)
@@ -66364,7 +66364,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "e6476304-d41a-4b2b-b62b-3a801f1cf2b1")
 		(at 192.9625 105.571)
@@ -66550,7 +66550,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "e67a4678-3975-4ae3-b174-1a35682257be")
 		(at 119.1625 54.85 -90)
@@ -66800,7 +66800,7 @@
 			(uuid "e543ebb3-afb4-418b-a1d6-f99ceac8b9cb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -66812,7 +66812,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "e7cebadb-c103-4be2-8a30-3a9c5099c583")
 		(at 166.9045 107.984)
@@ -67062,7 +67062,7 @@
 			(uuid "c9ce669f-21ea-4ef0-9b4c-abe5932f582d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -67074,7 +67074,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "e9025cba-bc9f-4b34-bff4-8f5a0a2d8227")
 		(at 179.2235 110.397)
@@ -67260,7 +67260,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:SMA"
+	(footprint "ESP32indEVB:SMA"
 		(layer "F.Cu")
 		(uuid "ea1b8a7f-427f-4f55-878c-c369a0d50b1b")
 		(at 151.7915 117.89 -90)
@@ -67687,7 +67687,7 @@
 			(uuid "c32ce202-46a8-43b7-8ab4-4251d4f758b6")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/CDBA340-HF.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/CDBA340-HF.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -67699,7 +67699,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:1206L05015YR"
+	(footprint "ESP32indEVB:1206L05015YR"
 		(layer "F.Cu")
 		(uuid "ea9a87bd-72dc-4ea9-80ad-79e736ab52f4")
 		(at 111.7125 96 180)
@@ -67974,7 +67974,7 @@
 			(uuid "2e1451e0-f6dd-43ec-bdc4-f42e714a1960")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\1206L050_15YR.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/1206L050_15YR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -67986,7 +67986,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "ec74f175-beca-478d-be38-de3dc7f724c1")
 		(at 126.2645 106.625)
@@ -68258,7 +68258,7 @@
 			(uuid "8f7e7780-b94f-4056-b992-9bea44c192ff")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/LED_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -68270,7 +68270,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "ed0929e0-9346-4aa4-af02-f90b9ade0df7")
 		(at 188.3675 100.745)
@@ -68456,7 +68456,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "edfc4736-adb2-4874-a045-35a2de3bbe30")
 		(at 137.2625 90.1 -90)
@@ -68706,7 +68706,7 @@
 			(uuid "8421f3d1-069c-4349-b2ae-0e074b1deab2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -68718,7 +68718,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:SMA"
+	(footprint "ESP32indEVB:SMA"
 		(layer "F.Cu")
 		(uuid "ee7d4ab7-f91d-4942-bdef-915adaaa87c5")
 		(at 139.3625 107.9 -90)
@@ -69145,7 +69145,7 @@
 			(uuid "aa415bb1-1e37-4d1d-8401-5ad3d0ab619a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/CDBA340-HF.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/CDBA340-HF.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -69157,7 +69157,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "ee8b5486-8c4f-45ca-85f3-5d6801d35d9b")
 		(at 126.2645 108.619)
@@ -69429,7 +69429,7 @@
 			(uuid "4a4dd111-45ec-4326-9646-c8e9971e1e77")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/LED_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -69441,7 +69441,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "ef64e9cb-4891-4488-8b7c-1d410de66d0c")
 		(at 190.2725 117.255)
@@ -69627,7 +69627,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:ACT45B1012PTL003"
+	(footprint "ESP32indEVB:ACT45B1012PTL003"
 		(layer "F.Cu")
 		(uuid "efe63356-0fa8-4619-bb49-920543604b8d")
 		(at 141.0625 54.6 180)
@@ -69958,7 +69958,7 @@
 			(uuid "ccf29a87-fb56-4c9a-9d5d-d4a31d5095e1")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\ACT45B-101-2P-TL003.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/ACT45B-101-2P-TL003.stp"
 			(offset
 				(xyz -0.02999999888 -0.1800000044 -2.999999955)
 			)
@@ -69970,7 +69970,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f077a928-8932-4d0a-b85e-9f0845f7895a")
 		(at 141.2505 96.046 90)
@@ -70220,7 +70220,7 @@
 			(uuid "7aa889a8-f72c-4d6a-8fa8-c1f04a82c19c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -70232,7 +70232,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f0fcb5b8-37a0-47c2-94df-db45254ebe6d")
 		(at 137.4625 51.2)
@@ -70482,7 +70482,7 @@
 			(uuid "65fe6caa-f053-4eea-b127-3ca0ccca752c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -70494,7 +70494,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:SOD-323"
+	(footprint "ESP32indEVB:SOD-323"
 		(layer "F.Cu")
 		(uuid "f261818e-1367-42b0-8fef-4077e5a97942")
 		(at 105.2125 81.4)
@@ -70900,7 +70900,7 @@
 			(uuid "de687b69-c806-4bf4-8fd3-957c4b669f44")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/D_SOD-323.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -70912,7 +70912,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f335aa8d-cfb7-4c86-9119-a50ce5d93cff")
 		(at 158.7765 101.253 180)
@@ -71162,7 +71162,7 @@
 			(uuid "16ff7210-e898-43ee-a76c-ffe483a85a37")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -71174,7 +71174,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f3cd39af-2136-48ef-a2ff-34c3a15d14d8")
 		(at 130.7625 60.8)
@@ -71424,7 +71424,7 @@
 			(uuid "c90d80ee-d2b2-4f10-8e31-1cb93ff22bf3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -71436,7 +71436,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f458edab-b7bc-4afe-8b4d-17d16182e99e")
 		(at 128.1695 101.454 -90)
@@ -71686,7 +71686,7 @@
 			(uuid "a2746c64-4b48-4f9a-923f-475c1f576250")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -71698,7 +71698,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f4955a9b-99ee-4491-b91f-4fd1a3586d90")
 		(at 118.2625 124.5 -90)
@@ -71948,7 +71948,7 @@
 			(uuid "42cf8929-cd5f-4a88-a33f-37b9cf33522d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -71960,7 +71960,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f5d50b51-8c17-4b8b-9641-16c92439c1d0")
 		(at 176.3125 59.4 180)
@@ -72210,7 +72210,7 @@
 			(uuid "9490ee38-ff57-4de6-8cb3-3f1e6d19c8da")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -72222,7 +72222,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:EVQPE104K"
+	(footprint "ESP32indEVB:EVQPE104K"
 		(layer "F.Cu")
 		(uuid "f60ece0f-c2fb-4bbd-ab02-c1711dce2dd0")
 		(at 146.7625 95.5)
@@ -72589,7 +72589,7 @@
 			(uuid "ecf044e9-9034-40b6-ad99-ee976a46ffaf")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/EVQ-PE104K_PNF04M_5PN04K.STEP"
+		(model "${KIPRJMOD}/lib/3dmodels/EVQ-PE104K_PNF04M_5PN04K.STEP"
 			(offset
 				(xyz 0 -2 0)
 			)
@@ -72601,7 +72601,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f6149035-e2b0-41e9-bedf-e055c5ddcd86")
 		(at 137.8469 59.724 90)
@@ -72851,7 +72851,7 @@
 			(uuid "6b4b5564-8a20-495f-a2a8-0551885a681e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -72863,7 +72863,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:QFN40P700X700X90-57N-D"
+	(footprint "ESP32indEVB:QFN40P700X700X90-57N-D"
 		(layer "F.Cu")
 		(uuid "f638fd26-54ce-4874-a6fd-265f960f3288")
 		(at 130.1125 92.3 90)
@@ -73687,7 +73687,7 @@
 			(uuid "58a0c3fe-858f-48f3-ba1d-2a4cc84fa2f9")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/ESP32-S3FN8.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/ESP32-S3FN8.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -73699,7 +73699,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f67edf13-9298-4b20-9ea2-145bb56a53bd")
 		(at 124.3595 96.173 -90)
@@ -73949,7 +73949,7 @@
 			(uuid "671d7196-655e-4ed8-b29e-40a41d56308c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -73961,7 +73961,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+	(footprint "ESP32indEVB:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 		(layer "F.Cu")
 		(uuid "f87d2048-bcd6-40a7-b206-92581e2020d8")
 		(at 145.2625 92.5)
@@ -74138,7 +74138,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libraryloader:TestPoint_Pad_through hole 1.5mm"
+	(footprint "ESP32indEVB:TestPoint_Pad_through hole 1.5mm"
 		(layer "F.Cu")
 		(uuid "f8c26a6b-408d-450c-92d9-19a07013d6b3")
 		(at 188.1135 117.255)
@@ -74324,7 +74324,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+	(footprint "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "f927a16e-f403-457c-9cef-8dd2d03e1eb3")
 		(at 121.3625 66.5 90)
@@ -74737,7 +74737,7 @@
 			(uuid "b6cc20e4-efb0-494b-8c56-69b596debf63")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/SO-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -74749,7 +74749,7 @@
 			)
 		)
 	)
-	(footprint "scheda di sviluppo industriale:ANTC3216X130N"
+	(footprint "ESP32indEVB:ANTC3216X130N"
 		(layer "F.Cu")
 		(uuid "f9a3d645-04e1-4f6a-99bf-c99436ca5d94")
 		(at 112.9305 103.158 180)
@@ -75093,7 +75093,7 @@
 			(uuid "de5486da-4beb-4ee2-a508-fbd7c73d6717")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\RFANT3216120A5T.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/RFANT3216120A5T.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -75105,7 +75105,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "fd66a53f-72fa-4283-b587-7aeea15f8855")
 		(at 119.2795 115.223 180)
@@ -75355,7 +75355,7 @@
 			(uuid "32f651d3-748c-42f9-bda5-3423cdb0e9a2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -75367,7 +75367,7 @@
 			)
 		)
 	)
-	(footprint "libraryloader:TerminalBlock_bornier-3_P5.08mm"
+	(footprint "ESP32indEVB:TerminalBlock_bornier-3_P5.08mm"
 		(layer "F.Cu")
 		(uuid "fde50231-5102-4b6e-bbd5-291c0f82687b")
 		(at 124.9945 46.4)
@@ -75672,7 +75672,7 @@
 			(uuid "d5f65716-c67c-4e5c-afcd-8d89a8a0fb8a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/282837-3.stp"
+		(model "${KIPRJMOD}/lib/3dmodels/282837-3.stp"
 			(offset
 				(xyz 0 4 2.5)
 			)
@@ -75684,7 +75684,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "fe7e9868-342c-4c9a-8078-758e61ae90aa")
 		(at 104.9625 45.1)
@@ -75947,7 +75947,7 @@
 			(uuid "c7e7b9f5-feed-43e4-abef-1ebbb1b9ccc1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -75959,7 +75959,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(footprint "ESP32indEVB:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "fe8081ba-7004-49bb-8da9-0cbf6b00ddb7")
 		(at 159.0305 109.381 90)
@@ -76209,7 +76209,7 @@
 			(uuid "446e681a-3d42-48a2-9513-bd5a8b54b415")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -76221,7 +76221,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:TO-252-2"
+	(footprint "ESP32indEVB:TO-252-2"
 		(layer "F.Cu")
 		(uuid "fe8dc07a-d991-45fa-ae8a-1b94ee0cd183")
 		(at 166.2695 99.602 90)
@@ -76666,7 +76666,7 @@
 			(uuid "23317325-bc3a-4e99-9c4c-e52768c72197")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-252-2.wrl"
+		(model "${KIPRJMOD}/lib/3dmodels/TO-252-2.step"
 			(offset
 				(xyz 0 0 0)
 			)

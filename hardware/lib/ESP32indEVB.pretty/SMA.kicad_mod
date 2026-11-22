@@ -413,7 +413,7 @@
 		(uuid "bc8e9e9a-cf7d-4231-99a7-a8d6bcb9d107")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/CDBA340-HF.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/CDBA340-HF.stp"
 		(offset
 			(xyz 0 0 0)
 		)

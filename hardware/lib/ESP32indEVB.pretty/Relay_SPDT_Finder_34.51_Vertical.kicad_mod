@@ -326,7 +326,7 @@
 		(uuid "b1adfa53-4431-43d4-8e84-98259f8f921f")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_34.51_Vertical.step"
+	(model "${KIPRJMOD}/lib/3dmodels/Relay_SPDT_Finder_34.51_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

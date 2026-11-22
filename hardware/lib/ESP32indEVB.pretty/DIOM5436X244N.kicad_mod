@@ -320,7 +320,7 @@
 		(uuid "857196a5-560f-4839-9f20-0654d8f33160")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\info\\Documents\\KiCad\\9.0\\SamacSys_Parts.3dshapes\\SMBJ3V3-E3_5B.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/SMBJ3V3-E3_5B.stp"
 		(offset
 			(xyz 0 0 0)
 		)

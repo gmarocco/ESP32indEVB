@@ -357,7 +357,7 @@
 		(uuid "2fde44bd-7b39-4c54-8e98-e7de7c617e33")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TSR-1_THT.step"
+	(model "${KIPRJMOD}/lib/3dmodels/Converter_DCDC_TRACO_TSR-1_THT.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -330,7 +330,7 @@
 		(uuid "36bda498-db38-4654-9073-e49bf277f7ed")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\RFANT3216120A5T.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/RFANT3216120A5T.stp"
 		(offset
 			(xyz 0 0 0)
 		)

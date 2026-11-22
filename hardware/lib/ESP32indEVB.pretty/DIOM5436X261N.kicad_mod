@@ -466,7 +466,7 @@
 		(uuid "681f8c69-7b83-4687-86bc-2ffe89dbdda8")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\symbols\\SamacSys_Parts.3dshapes\\SMBJ5.0A.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/SMBJ5.0A.stp"
 		(offset
 			(xyz 0 0 0)
 		)

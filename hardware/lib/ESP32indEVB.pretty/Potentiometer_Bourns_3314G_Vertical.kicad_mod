@@ -316,7 +316,7 @@
 		(uuid "e34ca8a9-1251-450f-b180-d687991ee64d")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3314G_Vertical.step"
+	(model "${KIPRJMOD}/lib/3dmodels/Potentiometer_Bourns_3314G_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

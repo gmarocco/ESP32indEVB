@@ -381,7 +381,7 @@
 		(uuid "0040d7de-5872-4ab6-a3ff-7dc1dedf048e")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.step"
+	(model "${KIPRJMOD}/lib/3dmodels/SO-8_3.9x4.9mm_P1.27mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

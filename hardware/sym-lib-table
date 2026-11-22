@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32indEVB")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32indEVB.kicad_sym")(options "")(descr "Project library"))
+)

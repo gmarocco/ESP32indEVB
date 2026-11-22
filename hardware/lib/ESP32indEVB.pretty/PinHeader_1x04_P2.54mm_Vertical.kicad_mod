@@ -319,7 +319,7 @@
 		(uuid "43dda1ad-3b24-4fdd-9a8a-bf0cf4e0675b")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/M20-7820446.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/M20-7820446.stp"
 		(offset
 			(xyz 0 0 0)
 		)

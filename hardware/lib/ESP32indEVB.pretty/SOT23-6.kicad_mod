@@ -328,7 +328,7 @@
 		(uuid "59811dd2-7b71-4eea-ab4e-9c26355a45e2")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\SMS3.3.TCT.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/SMS3.3.TCT.stp"
 		(offset
 			(xyz 0 0 0)
 		)

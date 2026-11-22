@@ -641,7 +641,7 @@
 		(uuid "11c905e5-02b6-436a-a9d8-9f2206c56c59")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/pc/Documents/KiCad/7.0/LibraryLoader/SamacSys_Parts.3dshapes/ESP32-S3FN8.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/ESP32-S3FN8.stp"
 		(offset
 			(xyz 0 0 0)
 		)

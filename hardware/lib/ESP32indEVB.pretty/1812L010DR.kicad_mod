@@ -347,7 +347,7 @@
 		(uuid "529d606a-2562-4f1c-bdb1-7506ae25e09a")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\1812L150_24MR.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/1812L150_24MR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

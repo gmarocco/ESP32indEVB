@@ -148,7 +148,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:+3.3VA"
+		(symbol "ESP32indEVB:+3.3VA"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -284,7 +284,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:+5V"
+		(symbol "ESP32indEVB:+5V"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -420,7 +420,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:C_Small"
+		(symbol "ESP32indEVB:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -576,7 +576,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:Conn_01x05_Socket"
+		(symbol "ESP32indEVB:Conn_01x05_Socket"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -885,7 +885,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:DTD114E"
+		(symbol "ESP32indEVB:DTD114E"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -1220,7 +1220,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:FINDER-34.51"
+		(symbol "ESP32indEVB:FINDER-34.51"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1248,7 +1248,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Relay_THT:Relay_SPDT_Finder_34.51_Vertical"
+			(property "Footprint" "ESP32indEVB:Relay_SPDT_Finder_34.51_Vertical"
 				(at 28.956 -1.016 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1567,7 +1567,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:Fiducial"
+		(symbol "ESP32indEVB:Fiducial"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1663,7 +1663,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:GND"
+		(symbol "ESP32indEVB:GND"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -1775,7 +1775,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:LMV358"
+		(symbol "ESP32indEVB:LMV358"
 			(pin_names
 				(offset 0.127)
 			)
@@ -2047,7 +2047,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:MountingHole"
+		(symbol "ESP32indEVB:MountingHole"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2146,7 +2146,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:PESD2CANFD24L-UX"
+		(symbol "ESP32indEVB:PESD2CANFD24L-UX"
 			(pin_names
 				(offset 0.762)
 			)
@@ -2345,7 +2345,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:PESD3V3U1UB,115"
+		(symbol "ESP32indEVB:PESD3V3U1UB,115"
 			(pin_names
 				(hide yes)
 			)
@@ -2595,7 +2595,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:R"
+		(symbol "ESP32indEVB:R"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2735,7 +2735,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:R_Potentiometer_Trim"
+		(symbol "ESP32indEVB:R_Potentiometer_Trim"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -2915,7 +2915,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:SMBJ5.0A"
+		(symbol "ESP32indEVB:SMBJ5.0A"
 			(pin_names
 				(hide yes)
 			)
@@ -2946,7 +2946,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "DIOM5436X244N"
+			(property "Footprint" "ESP32indEVB:DIOM5436X244N"
 				(at 10.16 -93.65 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3153,7 +3153,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:TB006-508-03BE"
+		(symbol "ESP32indEVB:TB006-508-03BE"
 			(pin_names
 				(offset 0.762)
 			)
@@ -5453,7 +5453,7 @@
 		(uuid "f57392ba-9f6b-4815-8816-aa32be6a9614")
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 200.406 81.026 0)
 		(unit 1)
 		(body_style 1)
@@ -5531,7 +5531,7 @@
 	)
 	(symbol
 		(lib_name "+3V3_1")
-		(lib_id "scheda di sviluppo industriale:+3V3_1")
+		(lib_id "ESP32indEVB:+3V3_1")
 		(at 100.584 137.414 0)
 		(unit 1)
 		(body_style 1)
@@ -5608,7 +5608,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD3V3U1UB,115")
+		(lib_id "ESP32indEVB:PESD3V3U1UB,115")
 		(at 53.34 149.098 270)
 		(unit 1)
 		(body_style 1)
@@ -5640,7 +5640,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOD-323"
+		(property "Footprint" "ESP32indEVB:SOD-323"
 			(at -40.31 159.258 0)
 			(hide yes)
 			(show_name no)
@@ -5809,7 +5809,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 100.584 165.862 0)
 		(mirror y)
 		(unit 1)
@@ -5887,7 +5887,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 67.056 164.846 0)
 		(mirror y)
 		(unit 1)
@@ -5965,7 +5965,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TB006-508-03BE")
+		(lib_id "ESP32indEVB:TB006-508-03BE")
 		(at 223.266 117.348 270)
 		(mirror x)
 		(unit 1)
@@ -5998,7 +5998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TerminalBlock_bornier-3_P5.08mm"
+		(property "Footprint" "ESP32indEVB:TerminalBlock_bornier-3_P5.08mm"
 			(at 225.806 100.838 0)
 			(hide yes)
 			(show_name no)
@@ -6171,7 +6171,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 75.565 29.845 90)
 		(mirror x)
 		(unit 1)
@@ -6202,7 +6202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 75.565 28.067 90)
 			(hide yes)
 			(show_name no)
@@ -6320,7 +6320,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 75.565 77.47 90)
 		(mirror x)
 		(unit 1)
@@ -6351,7 +6351,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 75.565 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -6469,7 +6469,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 73.025 93.345 90)
 		(mirror x)
 		(unit 1)
@@ -6500,7 +6500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 73.025 91.567 90)
 			(hide yes)
 			(show_name no)
@@ -6607,7 +6607,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:LMV358")
+		(lib_id "ESP32indEVB:LMV358")
 		(at 208.026 64.516 0)
 		(mirror x)
 		(unit 2)
@@ -6638,7 +6638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 			(at 208.026 64.516 0)
 			(hide yes)
 			(show_name no)
@@ -6763,7 +6763,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 50.546 65.278 0)
 		(mirror y)
 		(unit 1)
@@ -6841,7 +6841,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD3V3U1UB,115")
+		(lib_id "ESP32indEVB:PESD3V3U1UB,115")
 		(at 34.544 49.784 270)
 		(unit 1)
 		(body_style 1)
@@ -6873,7 +6873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOD-323"
+		(property "Footprint" "ESP32indEVB:SOD-323"
 			(at -59.106 59.944 0)
 			(hide yes)
 			(show_name no)
@@ -7042,7 +7042,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 177.546 92.202 0)
 		(unit 1)
 		(body_style 1)
@@ -7119,7 +7119,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:Fiducial")
+		(lib_id "ESP32indEVB:Fiducial")
 		(at 261.62 140.716 0)
 		(unit 1)
 		(body_style 1)
@@ -7152,7 +7152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Fiducial:Fiducial_1.5mm_Mask3mm"
+		(property "Footprint" "ESP32indEVB:Fiducial_1.5mm_Mask3mm"
 			(at 261.62 140.716 0)
 			(hide yes)
 			(show_name no)
@@ -7264,7 +7264,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD3V3U1UB,115")
+		(lib_id "ESP32indEVB:PESD3V3U1UB,115")
 		(at 67.056 148.844 270)
 		(unit 1)
 		(body_style 1)
@@ -7296,7 +7296,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOD-323"
+		(property "Footprint" "ESP32indEVB:SOD-323"
 			(at -26.594 159.004 0)
 			(hide yes)
 			(show_name no)
@@ -7465,7 +7465,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 190.246 113.284 0)
 		(unit 1)
 		(body_style 1)
@@ -7543,7 +7543,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:SMBJ5.0A")
+		(lib_id "ESP32indEVB:SMBJ5.0A")
 		(at 97.282 95.25 270)
 		(unit 1)
 		(body_style 1)
@@ -7576,7 +7576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DIOM5436X244N"
+		(property "Footprint" "ESP32indEVB:DIOM5436X244N"
 			(at 3.632 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7745,7 +7745,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:Conn_01x05_Socket")
+		(lib_id "ESP32indEVB:Conn_01x05_Socket")
 		(at 26.67 135.89 0)
 		(mirror y)
 		(unit 1)
@@ -7778,7 +7778,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
+		(property "Footprint" "ESP32indEVB:PinSocket_1x05_P2.54mm_Vertical"
 			(at 26.67 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -7894,7 +7894,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:MountingHole")
+		(lib_id "ESP32indEVB:MountingHole")
 		(at 261.62 152.908 0)
 		(unit 1)
 		(body_style 1)
@@ -7927,7 +7927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "ESP32indEVB:MountingHole_3.2mm_M3"
 			(at 261.62 152.908 0)
 			(hide yes)
 			(show_name no)
@@ -8028,7 +8028,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 235.966 58.166 0)
 		(unit 1)
 		(body_style 1)
@@ -8105,7 +8105,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 73.66 85.09 90)
 		(mirror x)
 		(unit 1)
@@ -8136,7 +8136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 73.66 83.312 90)
 			(hide yes)
 			(show_name no)
@@ -8243,7 +8243,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 34.544 65.024 0)
 		(mirror y)
 		(unit 1)
@@ -8321,7 +8321,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:Fiducial")
+		(lib_id "ESP32indEVB:Fiducial")
 		(at 261.62 135.636 0)
 		(unit 1)
 		(body_style 1)
@@ -8354,7 +8354,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Fiducial:Fiducial_1.5mm_Mask3mm"
+		(property "Footprint" "ESP32indEVB:Fiducial_1.5mm_Mask3mm"
 			(at 261.62 135.636 0)
 			(hide yes)
 			(show_name no)
@@ -8467,7 +8467,7 @@
 	)
 	(symbol
 		(lib_name "+3V3_1")
-		(lib_id "scheda di sviluppo industriale:+3V3_1")
+		(lib_id "ESP32indEVB:+3V3_1")
 		(at 97.282 90.17 0)
 		(unit 1)
 		(body_style 1)
@@ -8545,7 +8545,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 62.484 65.024 0)
 		(mirror y)
 		(unit 1)
@@ -8623,7 +8623,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 77.47 135.89 90)
 		(mirror x)
 		(unit 1)
@@ -8654,7 +8654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 77.47 134.112 90)
 			(hide yes)
 			(show_name no)
@@ -8761,7 +8761,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 38.735 33.02 0)
 		(mirror y)
 		(unit 1)
@@ -8840,7 +8840,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:MountingHole")
+		(lib_id "ESP32indEVB:MountingHole")
 		(at 261.62 159.258 0)
 		(unit 1)
 		(body_style 1)
@@ -8873,7 +8873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "ESP32indEVB:MountingHole_3.2mm_M3"
 			(at 261.62 159.258 0)
 			(hide yes)
 			(show_name no)
@@ -8974,7 +8974,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 72.39 45.72 90)
 		(mirror x)
 		(unit 1)
@@ -9005,7 +9005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 72.39 43.942 90)
 			(hide yes)
 			(show_name no)
@@ -9112,7 +9112,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R_Potentiometer_Trim")
+		(lib_id "ESP32indEVB:R_Potentiometer_Trim")
 		(at 161.036 41.402 180)
 		(unit 1)
 		(body_style 1)
@@ -9145,7 +9145,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_3314G_Vertical"
+		(property "Footprint" "ESP32indEVB:Potentiometer_Bourns_3314G_Vertical"
 			(at 161.036 41.402 0)
 			(hide yes)
 			(show_name no)
@@ -9255,7 +9255,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 36.83 40.132 0)
 		(mirror y)
 		(unit 1)
@@ -9334,7 +9334,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD2CANFD24L-UX")
+		(lib_id "ESP32indEVB:PESD2CANFD24L-UX")
 		(at 177.546 69.596 90)
 		(mirror x)
 		(unit 1)
@@ -9367,7 +9367,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+		(property "Footprint" "ESP32indEVB:SOT-23-3"
 			(at 175.006 88.646 0)
 			(hide yes)
 			(show_name no)
@@ -9551,7 +9551,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 235.966 49.276 0)
 		(unit 1)
 		(body_style 1)
@@ -9584,7 +9584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 235.966 49.276 0)
 			(hide yes)
 			(show_name no)
@@ -9691,7 +9691,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:FINDER-34.51")
+		(lib_id "ESP32indEVB:FINDER-34.51")
 		(at 195.326 127.508 0)
 		(unit 1)
 		(body_style 1)
@@ -9724,7 +9724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_SPDT_Finder_34.51_Vertical"
+		(property "Footprint" "ESP32indEVB:Relay_SPDT_Finder_34.51_Vertical"
 			(at 224.282 128.524 0)
 			(hide yes)
 			(show_name no)
@@ -9840,7 +9840,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 172.466 60.706 0)
 		(unit 1)
 		(body_style 1)
@@ -9917,7 +9917,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 200.406 45.466 0)
 		(unit 1)
 		(body_style 1)
@@ -9947,7 +9947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 198.628 45.466 90)
 			(hide yes)
 			(show_name no)
@@ -10054,7 +10054,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD3V3U1UB,115")
+		(lib_id "ESP32indEVB:PESD3V3U1UB,115")
 		(at 39.116 148.336 270)
 		(unit 1)
 		(body_style 1)
@@ -10086,7 +10086,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOD-323"
+		(property "Footprint" "ESP32indEVB:SOD-323"
 			(at -54.534 158.496 0)
 			(hide yes)
 			(show_name no)
@@ -10255,7 +10255,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+3.3VA")
+		(lib_id "ESP32indEVB:+3.3VA")
 		(at 161.036 33.782 0)
 		(unit 1)
 		(body_style 1)
@@ -10333,7 +10333,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 73.025 36.83 90)
 		(mirror x)
 		(unit 1)
@@ -10364,7 +10364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 73.025 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -10471,7 +10471,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD3V3U1UB,115")
+		(lib_id "ESP32indEVB:PESD3V3U1UB,115")
 		(at 50.546 49.276 270)
 		(unit 1)
 		(body_style 1)
@@ -10503,7 +10503,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOD-323"
+		(property "Footprint" "ESP32indEVB:SOD-323"
 			(at -43.104 59.436 0)
 			(hide yes)
 			(show_name no)
@@ -10672,7 +10672,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:Conn_01x05_Socket")
+		(lib_id "ESP32indEVB:Conn_01x05_Socket")
 		(at 21.59 36.83 0)
 		(mirror y)
 		(unit 1)
@@ -10705,7 +10705,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
+		(property "Footprint" "ESP32indEVB:PinSocket_1x05_P2.54mm_Vertical"
 			(at 21.59 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -10821,7 +10821,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 38.862 82.296 0)
 		(mirror y)
 		(unit 1)
@@ -10900,7 +10900,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 77.216 144.018 90)
 		(mirror x)
 		(unit 1)
@@ -10931,7 +10931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 77.216 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -11038,7 +11038,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 97.282 110.49 0)
 		(mirror y)
 		(unit 1)
@@ -11116,7 +11116,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:Conn_01x05_Socket")
+		(lib_id "ESP32indEVB:Conn_01x05_Socket")
 		(at 22.225 85.09 0)
 		(mirror y)
 		(unit 1)
@@ -11149,7 +11149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
+		(property "Footprint" "ESP32indEVB:PinSocket_1x05_P2.54mm_Vertical"
 			(at 22.225 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11265,7 +11265,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:Fiducial")
+		(lib_id "ESP32indEVB:Fiducial")
 		(at 261.62 145.796 0)
 		(unit 1)
 		(body_style 1)
@@ -11298,7 +11298,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Fiducial:Fiducial_1.5mm_Mask3mm"
+		(property "Footprint" "ESP32indEVB:Fiducial_1.5mm_Mask3mm"
 			(at 261.62 145.796 0)
 			(hide yes)
 			(show_name no)
@@ -11410,7 +11410,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TB006-508-03BE")
+		(lib_id "ESP32indEVB:TB006-508-03BE")
 		(at 168.656 58.166 0)
 		(mirror y)
 		(unit 1)
@@ -11443,7 +11443,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libraryloader:TerminalBlock_bornier-3_P5.08mm"
+		(property "Footprint" "ESP32indEVB:TerminalBlock_bornier-3_P5.08mm"
 			(at 152.146 55.626 0)
 			(hide yes)
 			(show_name no)
@@ -11627,7 +11627,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:LMV358")
+		(lib_id "ESP32indEVB:LMV358")
 		(at 233.426 50.546 0)
 		(unit 3)
 		(body_style 1)
@@ -11659,7 +11659,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 			(at 233.426 50.546 0)
 			(hide yes)
 			(show_name no)
@@ -11784,7 +11784,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 200.406 50.546 0)
 		(unit 1)
 		(body_style 1)
@@ -11861,7 +11861,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 172.974 142.748 90)
 		(unit 1)
 		(body_style 1)
@@ -11891,7 +11891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 172.974 144.526 90)
 			(hide yes)
 			(show_name no)
@@ -11998,7 +11998,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD3V3U1UB,115")
+		(lib_id "ESP32indEVB:PESD3V3U1UB,115")
 		(at 49.276 98.298 270)
 		(unit 1)
 		(body_style 1)
@@ -12030,7 +12030,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOD-323"
+		(property "Footprint" "ESP32indEVB:SOD-323"
 			(at -44.374 108.458 0)
 			(hide yes)
 			(show_name no)
@@ -12199,7 +12199,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 53.34 164.592 0)
 		(mirror y)
 		(unit 1)
@@ -12277,7 +12277,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 49.276 113.792 0)
 		(mirror y)
 		(unit 1)
@@ -12355,7 +12355,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:SMBJ5.0A")
+		(lib_id "ESP32indEVB:SMBJ5.0A")
 		(at 100.584 146.05 270)
 		(unit 1)
 		(body_style 1)
@@ -12388,7 +12388,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DIOM5436X244N"
+		(property "Footprint" "ESP32indEVB:DIOM5436X244N"
 			(at 6.934 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -12557,7 +12557,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 35.052 112.776 0)
 		(mirror y)
 		(unit 1)
@@ -12635,7 +12635,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 190.246 147.828 0)
 		(unit 1)
 		(body_style 1)
@@ -12712,7 +12712,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+3.3VA")
+		(lib_id "ESP32indEVB:+3.3VA")
 		(at 233.426 40.386 0)
 		(unit 1)
 		(body_style 1)
@@ -12790,7 +12790,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 161.036 46.482 0)
 		(unit 1)
 		(body_style 1)
@@ -12867,7 +12867,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:DTD114E")
+		(lib_id "ESP32indEVB:DTD114E")
 		(at 187.706 142.748 0)
 		(unit 1)
 		(body_style 1)
@@ -12900,7 +12900,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+		(property "Footprint" "ESP32indEVB:SOT-23-3"
 			(at 187.706 142.748 0)
 			(hide yes)
 			(show_name no)
@@ -13012,7 +13012,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 194.056 67.056 90)
 		(unit 1)
 		(body_style 1)
@@ -13042,7 +13042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 194.056 68.834 90)
 			(hide yes)
 			(show_name no)
@@ -13149,7 +13149,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD3V3U1UB,115")
+		(lib_id "ESP32indEVB:PESD3V3U1UB,115")
 		(at 62.484 49.53 270)
 		(unit 1)
 		(body_style 1)
@@ -13181,7 +13181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOD-323"
+		(property "Footprint" "ESP32indEVB:SOD-323"
 			(at -31.166 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -13350,7 +13350,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 200.406 75.946 0)
 		(unit 1)
 		(body_style 1)
@@ -13380,7 +13380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 198.628 75.946 90)
 			(hide yes)
 			(show_name no)
@@ -13487,7 +13487,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 79.756 128.016 90)
 		(mirror x)
 		(unit 1)
@@ -13518,7 +13518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 79.756 126.238 90)
 			(hide yes)
 			(show_name no)
@@ -13636,7 +13636,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD3V3U1UB,115")
+		(lib_id "ESP32indEVB:PESD3V3U1UB,115")
 		(at 35.052 97.536 270)
 		(unit 1)
 		(body_style 1)
@@ -13668,7 +13668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOD-323"
+		(property "Footprint" "ESP32indEVB:SOD-323"
 			(at -58.598 107.696 0)
 			(hide yes)
 			(show_name no)
@@ -13837,7 +13837,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 192.786 41.656 90)
 		(unit 1)
 		(body_style 1)
@@ -13867,7 +13867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 192.786 43.434 90)
 			(hide yes)
 			(show_name no)
@@ -13974,7 +13974,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:LMV358")
+		(lib_id "ESP32indEVB:LMV358")
 		(at 208.026 39.116 0)
 		(mirror x)
 		(unit 1)
@@ -14005,7 +14005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "ESP32indEVB:SO-8_3.9x4.9mm_P1.27mm"
 			(at 208.026 39.116 0)
 			(hide yes)
 			(show_name no)
@@ -14130,7 +14130,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 62.992 114.046 0)
 		(mirror y)
 		(unit 1)
@@ -14208,7 +14208,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 44.196 133.096 0)
 		(mirror y)
 		(unit 1)
@@ -14287,7 +14287,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:PESD3V3U1UB,115")
+		(lib_id "ESP32indEVB:PESD3V3U1UB,115")
 		(at 62.992 98.044 270)
 		(unit 1)
 		(body_style 1)
@@ -14319,7 +14319,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:SOD-323"
+		(property "Footprint" "ESP32indEVB:SOD-323"
 			(at -30.658 108.204 0)
 			(hide yes)
 			(show_name no)
@@ -14488,7 +14488,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 39.116 163.576 0)
 		(mirror y)
 		(unit 1)

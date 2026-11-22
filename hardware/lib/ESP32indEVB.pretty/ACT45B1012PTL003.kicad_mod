@@ -311,7 +311,7 @@
 		(uuid "5d86d804-af6c-4682-9b1a-11d87620d062")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\ACT45B-101-2P-TL003.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/ACT45B-101-2P-TL003.stp"
 		(offset
 			(xyz -0.02999999888 -0.1800000044 -2.999999955)
 		)

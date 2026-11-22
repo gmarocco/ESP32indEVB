@@ -353,7 +353,7 @@
 		(uuid "c53792e2-5160-4ee6-a1ff-e07a404a752e")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\TEA_1-0505.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/TEA_1-0505.stp"
 		(offset
 			(xyz -1.789999935 -0.999999985 -4.159999785)
 		)

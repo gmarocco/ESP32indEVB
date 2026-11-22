@@ -276,7 +276,7 @@
 		(uuid "26a361ba-0b7b-465a-b6a2-1fd6aa816dd6")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\ABS07AIG-32.768KHZ-D-T.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/ABS07AIG-32.768KHZ-D-T.stp"
 		(offset
 			(xyz 0.01999999925 0 0)
 		)

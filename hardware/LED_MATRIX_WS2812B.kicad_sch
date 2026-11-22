@@ -177,7 +177,7 @@
 					)
 				)
 			)
-			(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+			(property "Footprint" "ESP32indEVB:WS2812B"
 				(at 4.318 0 90)
 				(show_name no)
 				(do_not_autoplace no)
@@ -425,7 +425,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:+5V"
+		(symbol "ESP32indEVB:+5V"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -561,7 +561,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:C_Small"
+		(symbol "ESP32indEVB:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -717,7 +717,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:DMG1012T"
+		(symbol "ESP32indEVB:DMG1012T"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -749,7 +749,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-523"
+			(property "Footprint" "ESP32indEVB:SOT-523"
 				(at 5.08 -1.905 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1113,7 +1113,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:GND"
+		(symbol "ESP32indEVB:GND"
 			(power global)
 			(pin_names
 				(offset 0)
@@ -1225,7 +1225,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:R"
+		(symbol "ESP32indEVB:R"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1365,7 +1365,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "scheda di sviluppo industriale:TestPoint"
+		(symbol "ESP32indEVB:TestPoint"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2280,7 +2280,7 @@
 		(uuid "88f1722d-c895-45c8-bb8d-190a458e1e83")
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 98.044 70.866 0)
 		(mirror y)
 		(unit 1)
@@ -2311,7 +2311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 99.822 70.866 90)
 			(hide yes)
 			(show_name no)
@@ -2418,7 +2418,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 118.11 128.016 0)
 		(unit 1)
 		(body_style 1)
@@ -2497,7 +2497,7 @@
 	)
 	(symbol
 		(lib_name "WS2812B_3")
-		(lib_id "scheda di sviluppo industriale:WS2812B_3")
+		(lib_id "ESP32indEVB:WS2812B_3")
 		(at 150.876 141.986 0)
 		(unit 1)
 		(body_style 1)
@@ -2527,7 +2527,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+		(property "Footprint" "ESP32indEVB:WS2812B"
 			(at 155.194 141.986 90)
 			(hide yes)
 			(show_name no)
@@ -2650,7 +2650,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 152.654 154.432 0)
 		(unit 1)
 		(body_style 1)
@@ -2728,7 +2728,7 @@
 	)
 	(symbol
 		(lib_name "WS2812B_3")
-		(lib_id "scheda di sviluppo industriale:WS2812B_3")
+		(lib_id "ESP32indEVB:WS2812B_3")
 		(at 181.356 105.156 0)
 		(unit 1)
 		(body_style 1)
@@ -2758,7 +2758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+		(property "Footprint" "ESP32indEVB:WS2812B"
 			(at 185.674 105.156 90)
 			(hide yes)
 			(show_name no)
@@ -2881,7 +2881,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 182.626 154.686 0)
 		(unit 1)
 		(body_style 1)
@@ -2958,7 +2958,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:TestPoint")
+		(lib_id "ESP32indEVB:TestPoint")
 		(at 194.056 139.954 270)
 		(unit 1)
 		(body_style 1)
@@ -2989,7 +2989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+		(property "Footprint" "ESP32indEVB:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 194.056 145.034 0)
 			(hide yes)
 			(show_name no)
@@ -3093,7 +3093,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 123.444 154.686 0)
 		(unit 1)
 		(body_style 1)
@@ -3170,7 +3170,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 148.844 66.294 0)
 		(unit 1)
 		(body_style 1)
@@ -3249,7 +3249,7 @@
 	)
 	(symbol
 		(lib_name "WS2812B_3")
-		(lib_id "scheda di sviluppo industriale:WS2812B_3")
+		(lib_id "ESP32indEVB:WS2812B_3")
 		(at 122.174 105.156 0)
 		(unit 1)
 		(body_style 1)
@@ -3279,7 +3279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+		(property "Footprint" "ESP32indEVB:WS2812B"
 			(at 126.492 105.156 90)
 			(hide yes)
 			(show_name no)
@@ -3402,7 +3402,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 154.178 88.392 0)
 		(unit 1)
 		(body_style 1)
@@ -3479,7 +3479,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 177.292 94.996 0)
 		(unit 1)
 		(body_style 1)
@@ -3557,7 +3557,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 110.49 68.072 0)
 		(unit 1)
 		(body_style 1)
@@ -3634,7 +3634,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 123.952 116.332 0)
 		(unit 1)
 		(body_style 1)
@@ -3711,7 +3711,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 147.32 94.488 0)
 		(unit 1)
 		(body_style 1)
@@ -3789,7 +3789,7 @@
 	)
 	(symbol
 		(lib_name "WS2812B_3")
-		(lib_id "scheda di sviluppo industriale:WS2812B_3")
+		(lib_id "ESP32indEVB:WS2812B_3")
 		(at 181.356 77.724 0)
 		(unit 1)
 		(body_style 1)
@@ -3819,7 +3819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+		(property "Footprint" "ESP32indEVB:WS2812B"
 			(at 185.674 77.724 90)
 			(hide yes)
 			(show_name no)
@@ -3942,7 +3942,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 124.46 89.916 0)
 		(unit 1)
 		(body_style 1)
@@ -4019,7 +4019,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:C_Small")
+		(lib_id "ESP32indEVB:C_Small")
 		(at 110.49 64.77 0)
 		(unit 1)
 		(body_style 1)
@@ -4051,7 +4051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 110.49 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4159,7 +4159,7 @@
 	)
 	(symbol
 		(lib_name "+3V3_1")
-		(lib_id "scheda di sviluppo industriale:+3V3_1")
+		(lib_id "ESP32indEVB:+3V3_1")
 		(at 93.472 81.788 0)
 		(mirror y)
 		(unit 1)
@@ -4237,7 +4237,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 98.044 67.056 0)
 		(unit 1)
 		(body_style 1)
@@ -4316,7 +4316,7 @@
 	)
 	(symbol
 		(lib_name "WS2812B_3")
-		(lib_id "scheda di sviluppo industriale:WS2812B_3")
+		(lib_id "ESP32indEVB:WS2812B_3")
 		(at 152.4 77.724 0)
 		(unit 1)
 		(body_style 1)
@@ -4346,7 +4346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+		(property "Footprint" "ESP32indEVB:WS2812B"
 			(at 156.718 77.724 90)
 			(hide yes)
 			(show_name no)
@@ -4469,7 +4469,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 177.292 129.286 0)
 		(unit 1)
 		(body_style 1)
@@ -4547,7 +4547,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 152.654 116.84 0)
 		(unit 1)
 		(body_style 1)
@@ -4625,7 +4625,7 @@
 	)
 	(symbol
 		(lib_name "WS2812B_3")
-		(lib_id "scheda di sviluppo industriale:WS2812B_3")
+		(lib_id "ESP32indEVB:WS2812B_3")
 		(at 150.876 105.156 0)
 		(unit 1)
 		(body_style 1)
@@ -4655,7 +4655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+		(property "Footprint" "ESP32indEVB:WS2812B"
 			(at 155.194 105.156 90)
 			(hide yes)
 			(show_name no)
@@ -4778,7 +4778,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:DMG1012T")
+		(lib_id "ESP32indEVB:DMG1012T")
 		(at 88.9 76.708 270)
 		(mirror x)
 		(unit 1)
@@ -4809,7 +4809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-523"
+		(property "Footprint" "ESP32indEVB:SOT-523"
 			(at 86.995 71.628 0)
 			(hide yes)
 			(show_name no)
@@ -4922,7 +4922,7 @@
 	)
 	(symbol
 		(lib_name "WS2812B_3")
-		(lib_id "scheda di sviluppo industriale:WS2812B_3")
+		(lib_id "ESP32indEVB:WS2812B_3")
 		(at 122.682 77.724 0)
 		(unit 1)
 		(body_style 1)
@@ -4952,7 +4952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+		(property "Footprint" "ESP32indEVB:WS2812B"
 			(at 127 77.724 90)
 			(hide yes)
 			(show_name no)
@@ -5076,7 +5076,7 @@
 	)
 	(symbol
 		(lib_name "WS2812B_3")
-		(lib_id "scheda di sviluppo industriale:WS2812B_3")
+		(lib_id "ESP32indEVB:WS2812B_3")
 		(at 180.848 141.986 0)
 		(unit 1)
 		(body_style 1)
@@ -5106,7 +5106,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+		(property "Footprint" "ESP32indEVB:WS2812B"
 			(at 185.166 141.986 90)
 			(hide yes)
 			(show_name no)
@@ -5229,7 +5229,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:R")
+		(lib_id "ESP32indEVB:R")
 		(at 78.232 77.978 0)
 		(mirror y)
 		(unit 1)
@@ -5260,7 +5260,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "ESP32indEVB:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 80.01 77.978 90)
 			(hide yes)
 			(show_name no)
@@ -5367,7 +5367,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 119.126 62.23 0)
 		(unit 1)
 		(body_style 1)
@@ -5445,7 +5445,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 183.134 117.856 0)
 		(unit 1)
 		(body_style 1)
@@ -5522,7 +5522,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 147.32 127.508 0)
 		(unit 1)
 		(body_style 1)
@@ -5600,7 +5600,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 177.8 67.056 0)
 		(unit 1)
 		(body_style 1)
@@ -5678,7 +5678,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:+5V")
+		(lib_id "ESP32indEVB:+5V")
 		(at 118.618 94.488 0)
 		(unit 1)
 		(body_style 1)
@@ -5756,7 +5756,7 @@
 		)
 	)
 	(symbol
-		(lib_id "scheda di sviluppo industriale:GND")
+		(lib_id "ESP32indEVB:GND")
 		(at 183.134 88.138 0)
 		(unit 1)
 		(body_style 1)
@@ -5834,7 +5834,7 @@
 	)
 	(symbol
 		(lib_name "WS2812B_3")
-		(lib_id "scheda di sviluppo industriale:WS2812B_3")
+		(lib_id "ESP32indEVB:WS2812B_3")
 		(at 121.666 142.24 0)
 		(unit 1)
 		(body_style 1)
@@ -5864,7 +5864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "scheda di sviluppo industriale:WS2812B"
+		(property "Footprint" "ESP32indEVB:WS2812B"
 			(at 125.984 142.24 90)
 			(hide yes)
 			(show_name no)

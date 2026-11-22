@@ -637,7 +637,7 @@
 		(uuid "ea8bf600-48ba-4d95-bdc6-30472c94a067")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\pc\\Documents\\KiCad\\7.0\\LibraryLoader\\SamacSys_Parts.3dshapes\\UJ31-CH-G2-SMT-TR.stp"
+	(model "${KIPRJMOD}/lib/3dmodels/UJ31-CH-G2-SMT-TR.stp"
 		(offset
 			(xyz 0 -1.129999978 2.499999962)
 		)
